@@ -13,7 +13,7 @@ author_profile: true
 |   :-:    | -       |  
 | <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="180" height="180"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
 | <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="180" height="180">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
-| <img src='/images/publications/2020_PIV/framework.png' align="center" width="180" height="180"> | Gao, Qi, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
+| <img src='/images/publications/2020_PIV/framework.png' align="center" width="180" height="180"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
 
 
 ## Journal articles
@@ -22,12 +22,8 @@ author_profile: true
 |   :-:    | -       |  
 | <img src='/images/publications/2020_nnkoopman/koopman_nn_latex.png' align="center" width="180" height="50"> |  __Shaowu Pan__, and Karthik Duraisamy.  <br><br> [__Physics-Informed Probabilistic Learning of Linear Embeddings of Non-linear Dynamics With Guaranteed Stability__](https://epubs.siam.org/doi/pdf/10.1137/19M1267246).  <br><br>_SIAM Journal on Applied Dynamical Systems_ 19, no. 1 (2020): 480-509.|
 | <img src='/images/publications/2018_longNN/fig26.jpg' align="center" width="180" height="50">  | __Shaowu Pan__, and Karthik Duraisamy. [__Long-time predictive modeling of nonlinear dynamical systems using neural networks__](https://www.hindawi.com/journals/complexity/2018/4801012/) _Complexity_ (2018).  |
-| <img src='/images/publications/2020_PIV/framework.png' align="center" width="180" height="50"> | Gao, Qi, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
+| <img src='/images/publications/2018_data_closure/no_closure_compare_test_snapshots_1d_vbe.png' align="center" width="180" height="50"> | __Shaowu Pan__, and Karthik Duraisamy. [__Data-driven Discovery of Closure Models__](https://epubs.siam.org/doi/abs/10.1137/18M1177263?mobileUi=0) _SIAM Journal on Applied Dynamical Systems_ 17, no. 4 (2018): 2381-2413. |
 
-
-2. __Pan, S.__, Duraisamy, K. . __Complexity__, (2018).
-
-3. __Pan, S.__, Duraisamy, K. [__Data-driven Discovery of Closure Models__](https://epubs.siam.org/doi/abs/10.1137/18M1177263?mobileUi=0). __SIAM Journal on Applied Dynamical System__, (2018). 
 
 4. __Pan, S.__, Johnsen, E. [__The role of bulk viscosity on the decay of compressible, homogeneous, isotropic turbulence__](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/role-of-bulk-viscosity-on-the-decay-of-compressible-homogeneous-isotropic-turbulence/96619135BA0A3ACB20EAC44ADF8261D1). __Journal of Fluid Mechanics__, (2017).
 
