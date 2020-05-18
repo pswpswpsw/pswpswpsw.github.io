@@ -11,7 +11,7 @@ author_profile: true
 |        | Title |
 |   :-:    | -       |  
 | <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="100" height="50"> |  __Pan, Shaowu__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
-| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="100" height="50">  |__Pan, Shaowu__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
+| <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="100" height="50">  |__Pan, Shaowu__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
 | - | - |
 
 
