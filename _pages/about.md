@@ -10,7 +10,9 @@ redirect_from:
 ---
 
 Currently I am a fourth year Ph.D. student in the [Aerospace Engineering](https://aero.engin.umich.edu/) and [Scientific Computing](https://micde.umich.edu/ph-d-in-scientific-computing/) at the [MICDE](https://micde.umich.edu/) at University of Michigan, Ann Arbor, USA, working with [Professor Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/) since 2016. 
+Previously I was a master student working with [Professor Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/) on direct numerical simulation for compressible turbulence. 
 
+<!---
 Previously,
 * In 2013-2014, I was a research engineer intern in the [Advanced Micro-Fabrication Equipment Inc.](http://www.amec-inc.com/) in Shanghai, China, working with [Dr. Ning Zhou](https://www.linkedin.com/in/ning-zhou-58881b57/). 
 
@@ -18,6 +20,7 @@ Previously,
 
 * In 2016, I was an application engineer intern in the [Exa Corporation](https://www.exa.com/) working with [Adrien Mann](https://www.linkedin.com/in/adrienmann/).
 
+---> 
 
 # Education
 
