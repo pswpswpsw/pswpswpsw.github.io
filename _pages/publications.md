@@ -10,7 +10,7 @@ author_profile: true
 
 |        | Title |
 |   -    | -       |  
-| <img src='/images/libre_office_draw_research_graph.png' align="left" width="100" height="50"> | Pan, Shaowu, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br>  arXiv preprint arXiv:2002.10637 (2020).|
+| <img src='/images/libre_office_draw_research_graph.png' align="left" width="100" height="50"> | Pan, Shaowu, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  arXiv preprint arXiv:2002.10637 (2020).|
 |  |  |
 | - | - |
 
