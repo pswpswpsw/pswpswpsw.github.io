@@ -31,7 +31,7 @@ Previously,
 
 # Research Interests
 
-<img src='/images/libre_office_draw_research_graph.png' align="right" width="300" height="180" style="vertical-align:middle;margin:25px 25px"> My research interest lies in a combination of high-fidelity simulation for compressible turbulence with high performance computation, advancing theoretical & computational understanding on data-driven predictive reduced-order-modeling (ROM) for high-dimensional nonlinear dynamical systems, and developing physics-constrained data-driven models with uncertainty quantification. 
+<img src='/images/libre_office_draw_research_graph.png' align="right" width="350" height="200" style="vertical-align:middle;margin:0px 30px"> My research interest lies in __turbulence physics & machine learning__ with a combination of __high-fidelity simulation__ for compressible turbulence with high performance computing,  theoretical & computational understanding on data-driven __predictive reduced-order-modeling (ROM)__ for high-dimensional nonlinear dynamical systems, and __physics-informed data-driven model__ with uncertainty quantification. 
 
 Such applications include
 
