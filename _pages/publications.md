@@ -24,12 +24,12 @@ author_profile: true
 | <img src='/images/publications/2018_longNN/fig26.jpg' align="center" width="180" height="50">  | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Long-time predictive modeling of nonlinear dynamical systems using neural networks__](https://www.hindawi.com/journals/complexity/2018/4801012/) <br><br> _Complexity_ (2018).  |
 | <img src='/images/publications/2018_data_closure/no_closure_compare_test_snapshots_1d_vbe.png' align="center" width="180" height="50"> | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Data-driven Discovery of Closure Models__](https://epubs.siam.org/doi/abs/10.1137/18M1177263?mobileUi=0) <br><br> _SIAM Journal on Applied Dynamical Systems_ 17, no. 4 (2018): 2381-2413. |
 | <img src='/images/publications/2017_jfm/fig02a.png' align="center" width="180" height="50"> |  __Shaowu Pan__, and Eric Johnsen. <br><br>  [__The role of bulk viscosity on the decay of compressible, homogeneous, isotropic turbulence__](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/role-of-bulk-viscosity-on-the-decay-of-compressible-homogeneous-isotropic-turbulence/96619135BA0A3ACB20EAC44ADF8261D1)  <br><br>  _Journal of Fluid Mechanics_ 833 (2017): 717-744. |
-| <img src='/images/publications/2018_longNN/fig26.jpg' align="center" width="180" height="50">  | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Long-time predictive modeling of nonlinear dynamical systems using neural networks__](https://www.hindawi.com/journals/complexity/2018/4801012/) <br><br> _Complexity_ (2018).  |
+| <img src='/images/publications/2018_longNN/fig26.jpg' align="center" width="180" height="50">  | Luning Sun, Han Gao, __Shaowu Pan__, and Jian-Xun Wang. <br><br> [__Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data__](https://arxiv.org/pdf/1906.02382). <br><br> _Computer Methods in Applied Mechanics and Engineering_ 361 (2020): 112732.  |
 | <img src='/images/publications/2018_data_closure/no_closure_compare_test_snapshots_1d_vbe.png' align="center" width="180" height="50"> | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Data-driven Discovery of Closure Models__](https://epubs.siam.org/doi/abs/10.1137/18M1177263?mobileUi=0) <br><br> _SIAM Journal on Applied Dynamical Systems_ 17, no. 4 (2018): 2381-2413. |
 
 
 
-5. Sun, L., Gao, H., __Pan, S.__, Wang, J. [__Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data__](https://arxiv.org/pdf/1906.02382). __Computer Methods in Applied Mechanics and Engineering__, (2019).
+5. Sun, L., Gao, H., __Pan, S.__, Wang, J.  __Computer Methods in Applied Mechanics and Engineering__, (2019).
 
 6. Bhatnagar, S., Afshar, Y., __Pan, S.__, Duraisamy, K., Kaushik, S. [__Prediction of Aerodynamic Flow Fields Using Convolutional
 Neural Networks__](https://rdcu.be/bGzuh). __Computational Mechanics__, (2019). 
