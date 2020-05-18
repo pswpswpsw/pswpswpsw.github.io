@@ -31,7 +31,7 @@ Previously,
 
 # Research Interests
 
-<img src='/images/libre_office_draw_research_graph.png' align="left" width="500" height="300"> My research interest lies in advancing theoretical understanding on data-driven predictive reduced-order-modeling (ROM) for high-dimensional nonlinear dynamical systems, and developing physics-constrained data-driven models with uncertainty quantification. 
+<img src='/images/libre_office_draw_research_graph.png' align="left" width="300" height="180"> My research interest lies in advancing theoretical understanding on data-driven predictive reduced-order-modeling (ROM) for high-dimensional nonlinear dynamical systems, and developing physics-constrained data-driven models with uncertainty quantification. 
 
 Such applications include
 
