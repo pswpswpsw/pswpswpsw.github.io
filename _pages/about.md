@@ -20,7 +20,7 @@ Previously,
 
 * In 2016, I was an application engineer intern in the [Exa Corporation](https://www.exa.com/) working with [Adrien Mann](https://www.linkedin.com/in/adrienmann/).
 
----> 
+
 
 # Education
 
@@ -29,7 +29,7 @@ Previously,
 * __B.S.__ in Applied Mathematics, Beihang University, 2013
 * __B.E.__ in Aerospace Engineering, Beihang University, 2013
 
-
+---> 
 
 
 # Research Interests
