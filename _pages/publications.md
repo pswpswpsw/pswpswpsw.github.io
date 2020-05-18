@@ -11,9 +11,9 @@ author_profile: true
 
 |        | Title |
 |   :-:    | -       |  
-| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="180" height="180"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
-| <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="180" height="180">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
-| <img src='/images/publications/2020_PIV/framework.png' align="center" width="180" height="180"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
+| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="150" height="180"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
+| <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="150" height="180">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
+| <img src='/images/publications/2020_PIV/framework.png' align="center" width="150" height="180"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
 
 
 ## Journal articles
@@ -28,9 +28,6 @@ author_profile: true
 | <img src='/images/publications/2018_data_closure/no_closure_compare_test_snapshots_1d_vbe.png' align="center" width="180" height="50"> | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Data-driven Discovery of Closure Models__](https://epubs.siam.org/doi/abs/10.1137/18M1177263?mobileUi=0) <br><br> _SIAM Journal on Applied Dynamical Systems_ 17, no. 4 (2018): 2381-2413. |
 
 
-
-
-4. __Pan, S.__, Johnsen, E. . __Journal of Fluid Mechanics__, (2017).
 
 5. Sun, L., Gao, H., __Pan, S.__, Wang, J. [__Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data__](https://arxiv.org/pdf/1906.02382). __Computer Methods in Applied Mechanics and Engineering__, (2019).
 
