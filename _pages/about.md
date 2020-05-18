@@ -31,7 +31,7 @@ Previously,
 
 # Research Interests
 
-My research interest lies in advancing theoretical understanding on data-driven predictive reduced-order-modeling (ROM) for real world engineering dynamical systems, and developing physics-constrained data-driven models with uncertainty quantification. 
+<img src='/images/libre_office_draw_research_graph.png' align="right" width="500" height="300"> My research interest lies in advancing theoretical understanding on data-driven predictive reduced-order-modeling (ROM) for real world engineering dynamical systems, and developing physics-constrained data-driven models with uncertainty quantification. 
 
 Such applications include
 
@@ -40,7 +40,7 @@ Such applications include
 * control of nonlinear dynamical system using Koopman operator
 * interpretable surrogate modeling for complex systems
 
-<img src='/images/libre_office_draw_research_graph.png' width="500" height="300">
+
 
 <!---* Physics-based computational/data-driven modelling
 * High fidelity direct numerical simulation (DNS) of compressible turbulence
