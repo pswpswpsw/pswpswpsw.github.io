@@ -11,9 +11,9 @@ author_profile: true
 
 |        | Title |
 |   :-:    | -       |  
-| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="120" height="50"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
-| <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="120" height="50">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
-| <img src='/images/publications/2020_PIV/framework.png' align="center" width="120" height="50"> | Gao, Qi, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
+| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="180" height="50"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
+| <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="180" height="50">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
+| <img src='/images/publications/2020_PIV/framework.png' align="center" width="180" height="50"> | Gao, Qi, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
 
 
 ## Journal articles
