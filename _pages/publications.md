@@ -9,6 +9,12 @@ author_profile: true
 
 ## Preprints
 
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
 1. <img src='/images/libre_office_draw_research_graph.png' width="50" height="50"> __Pan, S.__, Arnold-Medabalimi, N., Duraisamy, K. [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637). __arXiv__, (2020).
 
 
