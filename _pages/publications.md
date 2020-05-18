@@ -10,14 +10,12 @@ author_profile: true
 
 |        | Title |
 |   :-:    | -       |  
-| <img src='/images/libre_office_draw_research_graph.png' align="center" width="100" height="50"> |  __Pan, Shaowu__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
-|  |  |
+| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="100" height="50"> |  __Pan, Shaowu__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
+| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="100" height="50">  |__Pan, Shaowu__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198) <br><br>  _arXiv preprint_ arXiv:1902.05198 (2019).  |
 | - | - |
 
-1. <img src='/images/libre_office_draw_research_graph.png' align="left" width="100" height="50"> __Pan, S.__, Arnold-Medabalimi, N., Duraisamy, K. [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637). __arXiv__, (2020).
 
-
-2. __Pan, S.__, Duraisamy, K. [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://arxiv.org/abs/1902.05198). __arXiv__, (2019). 
+2. __Pan, S.__, Duraisamy, K. . __arXiv__, (2019). 
 
 3. Gao, Q., Li, Q., __Pan, S.__, Wang, H., Wei, R., Wang, J. [__3D Particle Reconstruction of Volumetric Particle Image Velocimetry Convolutional Neural Network__](https://arxiv.org/abs/1909.07815). __arXiv__, (2019). 
 
