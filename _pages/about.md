@@ -36,10 +36,11 @@ Previously,
 
 <img src='/images/libre_office_draw_research_graph.png' align="right" width="350" height="200" style="vertical-align:middle;margin:0px 30px"> My research interest lies in __computational turbulence & machine learning / deep learning__ with a combination of __high-fidelity simulation__ for compressible turbulence with high performance computing,  theoretical & computational understanding on data-driven __predictive reduced-order-modeling (ROM)__ for high-dimensional nonlinear dynamical systems, and __physics-informed data-driven model__ with uncertainty quantification. Such applications include
 
-* High-fidelity simulation of turbulence
-* Modeling closure with memory effect for Reduced Order Model (e.g., Large-eddy simulation)
-* Modal analysis for multi-scale problem in fluid dynamics
+* High-fidelity simulation of compressible turbulence
+* Reduced order modeling (ROM) with uncertainty quantification (UQ)
+* Modal analysis on multi-scale problem in fluid dynamics
 * Optimal control of nonlinear dynamical system using Koopman operator
+* Physics informed deep learning 
 
 
 <!---* Physics-based computational/data-driven modelling
