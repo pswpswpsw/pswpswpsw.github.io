@@ -27,11 +27,7 @@ author_profile: true
 | <img src='/images/publications/2019_pinn/101nuv_compare.png' align="center" width="160" height="50">  | Luning Sun, Han Gao, __Shaowu Pan__, and Jian-Xun Wang. <br><br> [__Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data__](https://arxiv.org/pdf/1906.02382). <br><br> _Computer Methods in Applied Mechanics and Engineering_ 361 (2020): 112732.  |
 | <img src='/images/publications/2019_cnncfd/ezgif.com-webp-to-jpg.jpg' align="center" width="160" height="50"> | Saakaar Bhatnagar, Yaser Afshar, __Shaowu Pan__, Karthik Duraisamy, and Shailendra Kaushik. <br><br> [__Prediction of Aerodynamic Flow Fields Using Convolutional
 Neural Networks__](https://rdcu.be/bGzuh). <br><br>_Computational Mechanics_ 64, no. 2 (2019): 525-545. |
-
-
-6. Bhatnagar, S., Afshar, Y., __Pan, S.__, Duraisamy, K., Kaushik, S.  __Computational Mechanics__, (2019). 
-
-7. Gao, Z., Jiang, C., __Pan, S.__, & Lee, C. H. [__Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary Layers__](https://arc.aiaa.org/doi/abs/10.2514/1.J053585). __AIAA Journal__, (2015).
+| <img src='/images/publications/2019_cnncfd/ezgif.com-webp-to-jpg.jpg' align="center" width="160" height="50"> | Zhenxun Gao, Chongwen Jiang, __Shaowu Pan__, and Chun-Hian Lee. <br><br>  [__Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary Layers__](https://arc.aiaa.org/doi/abs/10.2514/1.J053585). <br><br> _AIAA Journal_ 53, no. 7 (2015): 1949-1968.|
 
 
 
