@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 Currently I am a fourth year Ph.D. student in the [Aerospace Engineering](https://aero.engin.umich.edu/) and [Scientific Computing](https://micde.umich.edu/ph-d-in-scientific-computing/) at the [MICDE](https://micde.umich.edu/) at [University of Michigan, Ann Arbor](http://www.umich.edu), USA, working with [Professor Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/) since 2016. 
-Previously I was a master student working with [Professor Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/) on direct numerical simulation for compressible turbulence. In 2009, I graduated from [Beihang University](https://ev.buaa.edu.cn/) with a B.E. in Aerospace Engineering & B.S. in Applied Mathematics.
+Previously I was a master student working with [Professor Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/) on direct numerical simulation (DNS) of compressible turbulence. In 2009, I graduated from [Beihang University](https://ev.buaa.edu.cn/) with a B.E. in Aerospace Engineering & B.S. in Applied Mathematics.
 
 <!---
 Previously,
