@@ -9,12 +9,12 @@ redirect_from:
   - /about.html
 ---
 
+<!---
+
 Currently I am a fourth year Ph.D. student in the [Aerospace Engineering](https://aero.engin.umich.edu/) and [Scientific Computing](https://micde.umich.edu/ph-d-in-scientific-computing/) at the [MICDE](https://micde.umich.edu/) at [University of Michigan, Ann Arbor](http://www.umich.edu), USA, working with [Professor Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/) since 2016. 
 Previously I was a master student working with [Professor Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/) on direct numerical simulation (DNS) of compressible turbulence. In 2013, I graduated from [Beihang University](https://ev.buaa.edu.cn/) with a B.E. in Aerospace Engineering & B.S. in Applied Mathematics. 
 
-[Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](/files/cv.pdf)
 
-<!---
 Previously,
 * In 2013-2014, I was a research engineer intern in the [Advanced Micro-Fabrication Equipment Inc.](http://www.amec-inc.com/) in Shanghai, China, working with [Dr. Ning Zhou](https://www.linkedin.com/in/ning-zhou-58881b57/). 
 
@@ -24,14 +24,23 @@ Previously,
 
 
 
-# Education
-
-* __Ph.D.__ in Aerospace Engineering and Scientific Computing, University of Michigan, Ann Arbor, 2020 (expected)
-* __M.S.E.__ in Mechanical Engineering, University of Michigan, Ann Arbor, 2015
-* __B.S.__ in Applied Mathematics, Beihang University, 2013
-* __B.E.__ in Aerospace Engineering, Beihang University, 2013
+* 
 
 ---> 
+
+# Education
+
+  * Ph.D. in Aerospace Engineering and Scientific Computing, University of Michigan, Ann Arbor, 2020 (expected)
+      * Topic: Operator-theoretic learning and decomposition of non-linear dynamics. 
+      * Advisor: [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
+  * M.S.E. in Mechanical Engineering, University of Michigan, Ann Arbor, 2015
+      * Topic: The role of bulk viscosity in freely decaying compressible isotropic turbulence
+      * Advisor: [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
+  * B.S. in Applied Mathematics, Beihang University, 2013
+  * B.E. in Aerospace Engineering, Beihang University, 2013
+
+[Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](/files/cv.pdf)
+
 
 
 # Research Interests
