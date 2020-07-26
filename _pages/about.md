@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Biography"
+title: ""
 excerpt: "Shaowu Pan"
 author_profile: true
 redirect_from: 
