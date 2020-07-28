@@ -38,7 +38,7 @@ Previously,
       * Advisor: [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
   * __B.S.__ in Applied Mathematics, __Beihang University__, 2013
   * __B.E.__ in Aerospace Engineering, __Beihang University__, 2013
-      * Topic: Effect of combustion heat release on turbulent boundary layer
+      * Topic: Effect of combustion heat release on compressible turbulent boundary layer
       * Advisor: [Chun-hian Lee](https://ev.buaa.edu.cn/info/1056/1332.htm)
 
 [Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](/files/cv.pdf)
