@@ -30,14 +30,14 @@ Previously,
 
 # Education
 
-  * Ph.D. in Aerospace Engineering and Scientific Computing, University of Michigan, Ann Arbor, 2020 (expected)
+  * __Ph.D.__ in Aerospace Engineering and Scientific Computing, __University of Michigan__, Ann Arbor, 2020 (expected)
       * Topic: Operator-theoretic learning and decomposition of non-linear dynamics. 
       * Advisor: [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
-  * M.S.E. in Mechanical Engineering, University of Michigan, Ann Arbor, 2015
+  * __M.S.E.__ in Mechanical Engineering, __University of Michigan__, Ann Arbor, 2015
       * Topic: The role of bulk viscosity in freely decaying compressible isotropic turbulence
       * Advisor: [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
-  * B.S. in Applied Mathematics, Beihang University, 2013
-  * B.E. in Aerospace Engineering, Beihang University, 2013
+  * __B.S.__ in Applied Mathematics, __Beihang University__, 2013
+  * __B.E.__ in Aerospace Engineering, __Beihang University__, 2013
       * Topic: Effect of combustion heat release on turbulent boundary layer
       * Advisor: [Chun-hian Lee](https://ev.buaa.edu.cn/info/1056/1332.htm)
 
