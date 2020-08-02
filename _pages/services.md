@@ -10,7 +10,8 @@ author_profile: true
 
 
 * Reviewer
-  * IEEE Access, AIAA Journal, Entropy
+  * Journal of Sound and Vibration, IEEE Access, AIAA Journal, Entropy
+  * AIAA SciTech conferences
 
 * President 
   * MTech (2016 – Present)
