@@ -28,6 +28,17 @@ Previously,
 
 ---> 
 
+# Research Interests
+
+<img src='/images/libre_office_draw_research_graph.png' align="right" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> My research interest lies in __computational turbulence & machine learning / deep learning__ with a combination of __high-fidelity simulation__ for compressible turbulence with high performance computing,  theoretical & computational understanding on data-driven __predictive reduced-order-modeling (ROM)__ for high-dimensional nonlinear dynamical systems, and __physics-informed data-driven model__ with uncertainty quantification. Such applications include
+
+* High-fidelity simulation of compressible turbulence
+* Reduced order modeling (ROM) with uncertainty quantification (UQ)
+* Modal analysis on multi-scale problem in fluid dynamics
+* Optimal control of nonlinear dynamical system using Koopman operator
+* Physics informed deep learning 
+
+
 # Education
 
   * __Ph.D.__ in Aerospace Engineering and Scientific Computing, __University of Michigan__, Ann Arbor, 2020 (expected)
@@ -39,21 +50,13 @@ Previously,
   * __B.S.__ in Applied Mathematics, __Beihang University__, 2013
   * __B.E.__ in Aerospace Engineering, __Beihang University__, 2013
       * _Effect of combustion heat release on compressible turbulent boundary layer_
-      * Advisor: [Chun-hian Lee](https://ev.buaa.edu.cn/info/1056/1332.htm)
+      * Advisor: [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1079/9880.htm)
 
 [Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](/files/cv.pdf)
 
 
 
-# Research Interests
 
-<img src='/images/libre_office_draw_research_graph.png' align="right" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> My research interest lies in __computational turbulence & machine learning / deep learning__ with a combination of __high-fidelity simulation__ for compressible turbulence with high performance computing,  theoretical & computational understanding on data-driven __predictive reduced-order-modeling (ROM)__ for high-dimensional nonlinear dynamical systems, and __physics-informed data-driven model__ with uncertainty quantification. Such applications include
-
-* High-fidelity simulation of compressible turbulence
-* Reduced order modeling (ROM) with uncertainty quantification (UQ)
-* Modal analysis on multi-scale problem in fluid dynamics
-* Optimal control of nonlinear dynamical system using Koopman operator
-* Physics informed deep learning 
 
 
 <!---* Physics-based computational/data-driven modelling
