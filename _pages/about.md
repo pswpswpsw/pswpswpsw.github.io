@@ -35,7 +35,7 @@ I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by P
 
 My research interests are 
 * machine learning / deep learning for fluid mechanics
-* data-driven predictive reduced-order-modeling (ROM) for high-dimensional nonlinear dynamical systems
+* data-driven predictive reduced-order-modeling 
 * physics-informed data-driven model
 * computational turbulence 
 
