@@ -31,19 +31,13 @@ Previously,
 # About me
 
 <img src='/images/libre_office_draw_research_graph.png' align="right" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
-I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). My research interest lies in 
+I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). 
+
+My research interest lies in 
 * machine learning / deep learning for fluid mechanics
 * data-driven predictive reduced-order-modeling (ROM) for high-dimensional nonlinear dynamical systems
 * physics-informed data-driven model
 * computational turbulence 
-
-Such applications include
-
-* High-fidelity simulation of compressible turbulence
-* Reduced order modeling (ROM) with uncertainty quantification (UQ)
-* Modal analysis on multi-scale problem in fluid dynamics
-* Optimal control of nonlinear dynamical system using Koopman operator
-* Physics informed deep learning 
 
 
 # Education
