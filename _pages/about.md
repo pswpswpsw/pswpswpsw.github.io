@@ -39,7 +39,7 @@ My research interests are
 * physics-informed data-driven model
 * computational turbulence 
 
-<img src='/images/libre_office_draw_research_graph.png' align="left" width="318" height="182" style="vertical-align:middle;margin:0px 30px"> 
+<img src='/images/libre_office_draw_research_graph.png' align="center" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
 
 
 ## Education
