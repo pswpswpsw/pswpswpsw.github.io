@@ -44,14 +44,14 @@ My research interests are
 
 ## Education
 
-  * __Ph.D.__ in Aerospace Engineering and Scientific Computing, __University of Michigan__, Ann Arbor, Dec. 2020
+  * Ph.D. in Aerospace Engineering and Scientific Computing, University of Michigan, Ann Arbor, Dec. 2020
       * _Operator-theoretic learning and decomposition of non-linear dynamics_ 
       * Advisor: Prof. [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
-  * __M.S.E.__ in Mechanical Engineering, __University of Michigan__, Ann Arbor, Dec. 2015
+  * M.S.E. in Mechanical Engineering, University of Michigan, Ann Arbor, Dec. 2015
       * _Role of bulk viscosity in freely decaying compressible isotropic turbulence_ 
       * Advisor: Prof. [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
-  * __B.S.__ in Applied Mathematics, __Beihang University__, July 2013
-  * __B.E.__ in Aerospace Engineering, __Beihang University__, JUly 2013
+  * B.S. in Applied Mathematics, Beihang University, July 2013
+  * B.E. in Aerospace Engineering, Beihang University, JUly 2013
       * _Effect of combustion heat release on compressible turbulent boundary layer_ 
       * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1079/9880.htm)
 
