@@ -30,7 +30,7 @@ Previously,
 
 ## About me
 
-<img src='/images/libre_office_draw_research_graph.png' align="right" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
+<img src='/images/libre_office_draw_research_graph.png' align="right" width="318" height="182" style="vertical-align:middle;margin:0px 30px"> 
 I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). 
 
 My research interests are 
