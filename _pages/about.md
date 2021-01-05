@@ -28,9 +28,16 @@ Previously,
 
 ---> 
 
-# Research Interests
+# About me
 
-<img src='/images/libre_office_draw_research_graph.png' align="right" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> My research interest lies in __computational turbulence & machine learning / deep learning__ with a combination of __high-fidelity simulation__ for compressible turbulence with high performance computing,  theoretical & computational understanding on data-driven __predictive reduced-order-modeling (ROM)__ for high-dimensional nonlinear dynamical systems, and __physics-informed data-driven model__ with uncertainty quantification. Such applications include
+<img src='/images/libre_office_draw_research_graph.png' align="right" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
+I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). My research interest lies in 
+* machine learning / deep learning for fluid mechanics
+* data-driven predictive reduced-order-modeling (ROM) for high-dimensional nonlinear dynamical systems
+* physics-informed data-driven model
+* computational turbulence 
+
+Such applications include
 
 * High-fidelity simulation of compressible turbulence
 * Reduced order modeling (ROM) with uncertainty quantification (UQ)
@@ -41,16 +48,16 @@ Previously,
 
 # Education
 
-  * __Ph.D.__ in Aerospace Engineering and Scientific Computing, __University of Michigan__, Ann Arbor, 2020 (expected)
+  * __Ph.D.__ in Aerospace Engineering and Scientific Computing, __University of Michigan__, Ann Arbor, 2020
       * _Operator-theoretic learning and decomposition of non-linear dynamics_ 
-      * Advisor: [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
+      * Advisor: Prof. [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
   * __M.S.E.__ in Mechanical Engineering, __University of Michigan__, Ann Arbor, 2015
       * _Role of bulk viscosity in freely decaying compressible isotropic turbulence_ 
-      * Advisor: [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
+      * Advisor: Prof. [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
   * __B.S.__ in Applied Mathematics, __Beihang University__, 2013
   * __B.E.__ in Aerospace Engineering, __Beihang University__, 2013
       * _Effect of combustion heat release on compressible turbulent boundary layer_ 
-      * Advisor: [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1079/9880.htm)
+      * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1079/9880.htm)
 
 [Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](/files/cv.pdf)
 
