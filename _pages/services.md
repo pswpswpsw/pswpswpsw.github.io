@@ -11,6 +11,7 @@ author_profile: true
 
 * Reviewer
   * Journal of Sound and Vibration, IEEE Access, AIAA Journal, Entropy
+  * Proceedings of the Royal Society A
   * AIAA SciTech conferences
 
 * President 
