@@ -11,7 +11,6 @@ author_profile: true
 
 |        | Title |
 |   :-:    | -       |  
-| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="200" height="10"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _arXiv preprint_ arXiv:2002.10637 (2020).|
 | <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
 
 
@@ -19,6 +18,7 @@ author_profile: true
 
 |        | Title |
 |   :-:    | -       |  
+| <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="200" height="10"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://arxiv.org/abs/2002.10637) <br><br>  _Journal of Fluid Mechanics_ arXiv:2002.10637 (2020). (in press)|
 | <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="200" height="10">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://aip.scitation.org/doi/10.1063/5.0010886) <br><br>  _Chaos: An Interdisciplinary Journal of Nonlinear Science_ (2020).  |
 | <img src='/images/publications/2020_nnkoopman/koopman_nn_latex.png' align="center" width="200" height="10"> |  __Shaowu Pan__, and Karthik Duraisamy.  <br><br> [__Physics-Informed Probabilistic Learning of Linear Embeddings of Non-linear Dynamics With Guaranteed Stability__](https://epubs.siam.org/doi/pdf/10.1137/19M1267246).  <br><br>_SIAM Journal on Applied Dynamical Systems_ 19, no. 1 (2020): 480-509.|
 | <img src='/images/publications/2019_pinn/101nuv_compare.png' align="center" width="200" height="10">  | Luning Sun, Han Gao, __Shaowu Pan__, and Jian-Xun Wang. <br><br> [__Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data__](https://arxiv.org/pdf/1906.02382). <br><br> _Computer Methods in Applied Mechanics and Engineering_ 361 (2020): 112732.  |

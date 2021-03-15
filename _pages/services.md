@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "Service"
 permalink: /services/
 author_profile: true
 ---
@@ -11,8 +11,10 @@ author_profile: true
 
 * Reviewer
   * Proceedings of the Royal Society A
-  * Journal of Sound and Vibration, IEEE Access, AIAA Journal, Entropy
-  * AIAA SciTech conferences
+  * AIAA Journal
+  * Journal of Sound and Vibration
+  * IEEE Access
+  * Entropy
 
 * President 
   * MTech (2016 – Present)
