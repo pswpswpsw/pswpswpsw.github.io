@@ -7,11 +7,11 @@ author_profile: true
 
 
 
-## Preprints
+<!-- ## Preprints
 
 |        | Title |
 |   :-:    | -       |  
-| <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). |
+| <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). | -->
 
 
 ## Journal articles
