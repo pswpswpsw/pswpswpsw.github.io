@@ -35,9 +35,8 @@ I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by P
 
 My research interests are 
 * machine learning / deep learning for fluid mechanics
-* data-driven predictive reduced-order-modeling 
-* physics-informed data-driven model
-* computational turbulence 
+* control-oriented data-driven predictive reduced-order-modeling
+* computational turbulence
 
 <img src='/images/libre_office_draw_research_graph.png' align="center" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
 
