@@ -43,10 +43,10 @@ My research interests are
 
 ## Education
 
-  * Ph.D. in Aerospace Engineering and Scientific Computing, **University of Michigan, Ann Arbor**, Dec. 2020
+  * Ph.D. in Aerospace Engineering and Scientific Computing, [University of Michigan, Ann Arbor](https://aero.engin.umich.edu/), Dec. 2020
       * _Robust and Interpretable Learning for Operator-Theoretic Modeling of Non-linear Dynamics_ 
       * Advisor: Prof. [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
-  * M.S.E. in Mechanical Engineering, **University of Michigan, Ann Arbor**, Dec. 2015
+  * M.S.E. in Mechanical Engineering, [University of Michigan, Ann Arbor](https://aero.engin.umich.edu/), Dec. 2015
       * _Role of bulk viscosity in freely decaying compressible isotropic turbulence_ 
       * Advisor: Prof. [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
   * B.S. in Applied Mathematics, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
