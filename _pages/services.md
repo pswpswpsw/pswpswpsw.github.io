@@ -10,7 +10,7 @@ author_profile: true
 
 
 * Reviewer
-  * Proceedings of the Royal Society A, AIAA Journal, Journal of Sound and Vibration, IEEE Access, Entropy, AIAA Scitech Conferences, Fluids
+  * Journal of Nonlinear Science, Proceedings of the Royal Society A, AIAA Journal, Journal of Sound and Vibration, IEEE Access, Entropy, AIAA Scitech Conferences, Fluids
 
 * President 
   * MTech (2016 – Present)
