@@ -10,7 +10,7 @@ author_profile: true
 
 
 * Reviewer
-  * SIAM Journal on Scientific Computing, Journal of Nonlinear Science, Proceedings of the Royal Society A, AIAA Journal, Journal of Sound and Vibration, IEEE Access, Entropy, AIAA Scitech Conferences, Fluids
+  * SIAM Journal on Scientific Computing, Journal of Nonlinear Science, Proceedings of the Royal Society A, AIAA Journal, Journal of Sound and Vibration, IEEE Access, Entropy, Fluids
 
 * President 
   * MTech (2016 – Present)
