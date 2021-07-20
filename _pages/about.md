@@ -52,7 +52,7 @@ My research interests are
   * B.S. in Applied Mathematics, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
   * B.E. in Aerospace Engineering, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, JUly 2013
       <!-- * _Effect of combustion heat release on compressible turbulent boundary layer_  -->
-      * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1079/9880.htm)
+      * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1104/2008.htm)
 
 [Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](https://www.dropbox.com/s/xp8r7kpaoan7p2i/cv.pdf?dl=0)
 
