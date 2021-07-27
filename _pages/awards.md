@@ -14,5 +14,5 @@ author_profile: true
 * Outstanding Undergraduate Thesis Winner in Fluid Mechanics, 2013
 * Outstanding Student of Beihang University, 2012
 * First-class Prize in Mathematics Contest of Beihang University, 2012
-* Singapore Technologies Engineering Fellow, 2008-2013
+* Singapore Technologies Engineering Fellow, 2010-2013
 
