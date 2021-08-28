@@ -40,6 +40,10 @@ author_profile: true
 | <img src='/images/publications/2014_chamber/chamber.png' align="center" width="200" height="10">  | Ning Zhou, Yuanhao Wu, Wenbin Han, and __Shaowu Pan__. <br><br> [__An extended CFD model to predict the pumping curve in low pressure plasma etch chamber__](http://aip.scitation.org/doi/abs/10.1063/1.4902752) <br><br> _AIP Conference Proceedings_, vol. 1628, no. 1, pp. 1378-1383. American Institute of Physics, 2014. |
 
 
+## Thesis
+
+Pan, Shaowu. ["Robust and Interpretable Learning for Operator-Theoretic Modeling of Non-linear Dynamics."](https://deepblue.lib.umich.edu/handle/2027.42/168008) PhD diss., 2021.
+
 <!-- 
 1. __Pan, S.__, Gao, Z., Lee, C. H. [__Numerical investigation of rarefaction effects in the vicinity of a sharp leading edge__](http://aip.scitation.org/doi/abs/10.1063/1.4902591). _28th International Symposium on Rarefied Gas Dynamics, Xi'An, China, Jul 2014_. 
 
