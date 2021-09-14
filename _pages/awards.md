@@ -4,7 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-
+* Chinese Outstanding Student Abroad Award, 2021
 * Nominee for Richard and Eleanor Towner Prize for Outstanding Ph.D. Research, 2019
 * Honorable Mention in Student Poster Competition in MICDE symposium, 2019
 * SIAM Student Travel Grant, SIAM, 2018
