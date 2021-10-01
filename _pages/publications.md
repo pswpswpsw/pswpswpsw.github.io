@@ -11,13 +11,14 @@ author_profile: true
 
 |        | Title |
 |   :-:    | -       |  
-| <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, Qijie Li, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://arxiv.org/abs/1909.07815)  <br><br> _arXiv preprint_ arXiv:1909.07815 (2019). | -->
+ | -->
 
 
 ## Journal articles
 
 |        | Title |
-|   :-:    | -       |  
+|   :-:    | -       |
+| <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://aia.springeropen.com/articles/10.1186/s42774-021-00087-6)  <br><br> _Advances in Aerodynamics_ (2021).
 | <img src='/images/publications/2021_jcpa/jp1c05102_0010.gif' align="center" width="200" height="10"> |  Weiqi Ji, Weilun Qiu, Zhiyu Shi, __Shaowu Pan__, and Sili Deng. <br><br> [__Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics__](https://pubs.acs.org/doi/full/10.1021/acs.jpca.1c05102) <br><br>  _Journal of Physical Chemistry A_ (2021)|
 | <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="200" height="10"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/sparsitypromoting-algorithms-for-the-discovery-of-informative-koopmaninvariant-subspaces/F52F03ED181023369A661EF09B57281A) <br><br>  _Journal of Fluid Mechanics_ (2021)|
 | <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="200" height="10">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://aip.scitation.org/doi/10.1063/5.0010886) <br><br>  _Chaos: An Interdisciplinary Journal of Nonlinear Science_ (2020).  |
