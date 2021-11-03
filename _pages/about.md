@@ -50,7 +50,7 @@ My research interests are
       <!-- * _Role of bulk viscosity in freely decaying compressible isotropic turbulence_  -->
       * Advisor: Prof. [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
   * B.S. in Applied Mathematics, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
-  * B.E. in Aerospace Engineering, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, JUly 2013
+  * B.E. in Aerospace Engineering, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
       <!-- * _Effect of combustion heat release on compressible turbulent boundary layer_  -->
       * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1104/2008.htm)
 
