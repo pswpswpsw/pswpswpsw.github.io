@@ -44,8 +44,6 @@ My research interests are
 
 <iframe width="280" height="157" src="https://www.youtube.com/embed/k1KwdFwW87I" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><br/>
-
 <iframe width="280" height="157" src="https://www.youtube.com/embed/_a5IdVN2D_g" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
