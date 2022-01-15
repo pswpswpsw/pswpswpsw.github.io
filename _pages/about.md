@@ -30,8 +30,7 @@ Previously,
 
 ## About me
 
-
-I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). 
+My name is Shaowu Pan (Chinese: 潘韶武). I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). 
 
 My research interests are 
 * machine learning / deep learning for fluid mechanics
@@ -40,7 +39,13 @@ My research interests are
 
 <img src='/images/libre_office_draw_research_graph.png' align="center" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9cWLFXc1Ax4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Research Talk
+
+<iframe width="280" height="157" src="https://www.youtube.com/embed/k1KwdFwW87I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="280" height="157" src="https://www.youtube.com/embed/_a5IdVN2D_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Education
 
