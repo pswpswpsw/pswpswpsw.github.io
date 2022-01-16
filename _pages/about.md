@@ -30,7 +30,7 @@ Previously,
 
 ## About me
 
-My name is Shaowu Pan (Chinese: 潘韶武). I am currently a Postdoctoral Scholar at the Unversity of Washington hosted by Prof. [Nathan Kutz](https://faculty.washington.edu/kutz/). 
+My name is Shaowu Pan (Chinese: 潘韶武). I am currently a Postdoctoral Scholar at the Unversity of Washington-Seattle collaborating with [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven Brunton](https://www.eigensteve.com/). 
 
 My research experiences include 
 * machine learning / deep learning for computational physics
