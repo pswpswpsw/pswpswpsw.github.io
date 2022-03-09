@@ -60,7 +60,7 @@ My research experiences include
       <!-- * _Effect of combustion heat release on compressible turbulent boundary layer_  -->
       * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1104/2008.htm)
 
-[Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](https://www.dropbox.com/s/tqpzyzt69web0oz/academic_long_resume.pdf?dl=0)
+[Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](https://www.dropbox.com/s/hgwouastob08utn/academic_long_resume.pdf?dl=0)
 
 
 
