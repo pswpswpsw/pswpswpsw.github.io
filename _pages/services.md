@@ -10,24 +10,29 @@ author_profile: true
 
 
 * Reviewer
+    * Nature Communications
     * Journal of Fluid Mechanics
+    *  AIAA Journal
+    *  Proceedings of Royal Society A
+    *  IEEE Control Systems Letters
     * Physics of Fluids
+    * PLOS One
+    * Computer Physics Communications
     * Computers and Fluids
-    * International Journal for Numerical Methods in Engineering
-    * SIAM Journal on Scientific Computing
-    * SIAM Journal on Applied Dynamical Systems
-    * Journal of Nonlinear Science
-    * Proceedings of Royal Society A
-    * Journal of Sound and Vibration
-    * AIAA Journal
-    * IEEE Access
-    * IEEE Transactions on Network Science and Engineering
-    * Entropy
-    * Applied Sciences
-    * Mathematical Reviews
-    * Acta Mechanica Sinica
-    * IEEE/CAA Journal of Automatica Sinica
-
+    *  Acta Mechanica Sinica
+    *  IEEE/CAA Journal of Automatica Sinica
+    *  International Journal for Numerical Methods in Engineering
+    *  Scientific Reports
+    *  SIAM Journal on Scientific Computing
+    *  SIAM Journal on Applied Dynamical Systems
+    *  Journal of Nonlinear Science
+    *  Journal of Sound and Vibration
+    *  IEEE Access
+    *  IEEE Transactions on Network Science and Engineering
+    *  Entropy
+    *  Applied Sciences
+    *  Mathematical Reviews
+    
 * President 
   * MTech (2016 – Present)
 
