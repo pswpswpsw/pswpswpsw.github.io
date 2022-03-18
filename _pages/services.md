@@ -34,7 +34,7 @@ author_profile: true
     *  Mathematical Reviews
     
 * President 
-  * MTech (2016 – Present)
+  * MTech (2016 – 2020)
 
 * Memberships
   * SIAM, AIAA, APS
