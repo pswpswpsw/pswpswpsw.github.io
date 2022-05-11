@@ -12,6 +12,8 @@ author_profile: true
 * Reviewer
     * Nature Communications
     * Journal of Fluid Mechanics
+    * Physical Review Fluids
+    * Lab on a Chip
     *  AIAA Journal
     *  Proceedings of Royal Society A
     *  IEEE Control Systems Letters
