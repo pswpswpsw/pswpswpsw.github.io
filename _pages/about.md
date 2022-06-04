@@ -30,7 +30,7 @@ Previously,
 
 ## About me
 
-\textbf{Update: I will be joining the Rensselaer Polytechnic Institute as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2023 Fall}.
+**Update: I will be joining the Rensselaer Polytechnic Institute as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2023 Fall.**
 
 My name is Shaowu Pan (Chinese: 潘韶武). I am currently a Postdoctoral Scholar at the Unversity of Washington-Seattle collaborating with [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven Brunton](https://www.eigensteve.com/). 
 
