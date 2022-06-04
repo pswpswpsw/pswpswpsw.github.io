@@ -39,7 +39,7 @@ My research experiences include
 * control-oriented data-driven predictive reduced-order-modeling
 * high performance computing for turbulence simulation
 
-<img src='/images/lab0rpi.png' align="center" width="683" height="390" style="vertical-align:middle;margin:0px 30px"> 
+<img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
 
 
 ## Research Highlights
