@@ -30,6 +30,8 @@ Previously,
 
 ## About me
 
+\textbf{Update: I will be joining the Rensselaer Polytechnic Institute as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2023 Fall}.
+
 My name is Shaowu Pan (Chinese: 潘韶武). I am currently a Postdoctoral Scholar at the Unversity of Washington-Seattle collaborating with [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven Brunton](https://www.eigensteve.com/). 
 
 My research experiences include 
@@ -37,7 +39,7 @@ My research experiences include
 * control-oriented data-driven predictive reduced-order-modeling
 * high performance computing for turbulence simulation
 
-<img src='/images/libre_office_draw_research_graph.png' align="center" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
+<img src='/images/lab0rpi.png' align="center" width="455" height="260" style="vertical-align:middle;margin:0px 30px"> 
 
 
 ## Research Highlights
