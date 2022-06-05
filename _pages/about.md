@@ -28,19 +28,27 @@ Previously,
 
 ---> 
 
-<img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
 
 ## About me
 
-**Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2023 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including physics-informed machine learning, artificial intelligence for fluid dynamics, and data-driven control of dynamic systems. Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022.
+**Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2023 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including 
+* physics-informed machine learning, 
+* artificial intelligence for fluid dynamics, 
+* data-driven control of dynamic systems. 
+Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022.
+
+<img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
+
+
+<!---
 
 I am currently a Postdoctoral Scholar at the Unversity of Washington-Seattle collaborating with [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven Brunton](https://www.eigensteve.com/). 
 
-My research experiences include 
+My 
 * machine learning / deep learning for computational physics
 * control-oriented data-driven predictive reduced-order-modeling
 * high performance computing for turbulence simulation
-
+---> 
 
 ## Research Highlights
 
