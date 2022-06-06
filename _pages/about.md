@@ -31,7 +31,7 @@ Previously,
 
 ## About me
 
-**Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2023 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including 
+**Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2022 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including 
 * physics-informed machine learning, 
 * artificial intelligence for fluid dynamics, 
 * data-driven control of dynamic systems. 
