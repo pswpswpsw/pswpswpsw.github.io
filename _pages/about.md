@@ -35,6 +35,7 @@ Previously,
 * physics-informed machine learning, 
 * artificial intelligence for fluid dynamics, 
 * data-driven control of dynamic systems. 
+
 Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022.
 
 <img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
