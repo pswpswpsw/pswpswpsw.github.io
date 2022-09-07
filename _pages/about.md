@@ -28,15 +28,19 @@ Previously,
 
 ---> 
 
+## Welcome to the Computational Scientific Machine Learning Lab from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI.
 
-## About me
+
+## Announcements
+
+**Aug 2022:** Shaowu begins the journey as Assistant Professor!
 
 **Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2022 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including 
 * physics-informed machine learning, 
 * artificial intelligence for fluid dynamics, 
 * data-driven control of dynamic systems. 
 
-Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022.
+Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022. 
 
 <img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
 
@@ -59,21 +63,21 @@ My
 <iframe width="280" height="157" src="https://www.youtube.com/embed/_a5IdVN2D_g" title="YouTube video player" frameborder="4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Education
+<!-- ## Education
 
   * Ph.D. in Aerospace Engineering and Scientific Computing, [University of Michigan, Ann Arbor](https://aero.engin.umich.edu/), Dec. 2020
-      <!-- * _Robust and Interpretable Learning for Operator-Theoretic Modeling of Non-linear Dynamics_  -->
+
       * Advisor: Prof. [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
   * M.S.E. in Mechanical Engineering, [University of Michigan, Ann Arbor](https://aero.engin.umich.edu/), Dec. 2015
-      <!-- * _Role of bulk viscosity in freely decaying compressible isotropic turbulence_  -->
+
       * Advisor: Prof. [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
   * B.S. in Applied Mathematics, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
   * B.E. in Aerospace Engineering, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
-      <!-- * _Effect of combustion heat release on compressible turbulent boundary layer_  -->
+
       * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1104/2008.htm)
 
 [Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](https://www.dropbox.com/s/hgwouastob08utn/academic_long_resume.pdf?dl=0)
-
+ -->
 
 
 
