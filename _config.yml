@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "CSML"
 title_separator          : "-"
 name                     : &name "Shaowu Pan"
 description              : &description "Ph.D. student in Aerospace Engineering"
