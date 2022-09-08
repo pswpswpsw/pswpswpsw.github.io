@@ -37,7 +37,7 @@ If you are interested in joining my group, please take a look at my research and
 
 * **Ph.D. openings** in scientific machine learning, reduced-order modeling. Graduate students should apply directly to the RPI Graduate Admissions
 
-* **Undergraduate & M.S. students** looking for research opportunities can email pans2@rpi.edu with their interests and any relevant coursework or research experience.
+* **Undergraduate & M.S. students** looking for research opportunities can email **pans2@rpi.edu** with their interests and any relevant coursework or research experience.
 
 
 ## Announcements
