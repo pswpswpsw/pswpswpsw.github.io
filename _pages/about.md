@@ -32,7 +32,7 @@ Welcome to the **Computational Scientific Machine Learning Lab** from the Depart
 
 <img src='/images/lab0rpi.png' align="center" width="882" height="512" style="vertical-align:middle;margin:0px 30px"> 
 
-If you are interested in joining my group, please take a look at my research and google scholars for details.
+**If you are interested in joining my group, please take a look at my research and google scholars for details.**
 
 
 * **Ph.D. openings** in scientific machine learning, reduced-order modeling. Graduate students should apply directly to the RPI Graduate Admissions
