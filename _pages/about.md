@@ -30,19 +30,29 @@ Previously,
 
 ## Welcome to the Computational Scientific Machine Learning Lab from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI.
 
+<img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
+
+If you are interested in joining my group, please take a look at my research and google scholars for details.
+
+
+* **Ph.D. openings** in scientific machine learning, reduced-order modeling. Graduate students should apply directly to the RPI Graduate Admissions
+
+* **Undergraduate & M.S. students** looking for research opportunities can email pans2@rpi.edu with their interests and any relevant coursework or research experience.
+
 
 ## Announcements
 
 **Aug 2022:** Shaowu begins the journey as Assistant Professor!
 
+<!-- 
 **Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2022 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including 
 * physics-informed machine learning, 
 * artificial intelligence for fluid dynamics, 
 * data-driven control of dynamic systems. 
 
-Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022. 
+Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022.  -->
 
-<img src='/images/lab0rpi.png' align="center" width="820" height="468" style="vertical-align:middle;margin:0px 30px"> 
+
 
 
 <!---
