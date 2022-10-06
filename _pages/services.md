@@ -13,11 +13,12 @@ author_profile: true
     * Nature Communications
     * Journal of Fluid Mechanics
     * Physical Review Fluids
+    * Physics of Fluids
     * Lab on a Chip
     *  AIAA Journal
+    * Chaos
     *  Proceedings of Royal Society A
     *  IEEE Control Systems Letters
-    * Physics of Fluids
     * PLOS One
     * Computer Physics Communications
     * Computers and Fluids
@@ -30,6 +31,8 @@ author_profile: true
     *  Journal of Nonlinear Science
     *  Journal of Sound and Vibration
     *  IEEE Access
+    *  IEEE Computational Intelligence Magazine
+    *  IEEE Transactions on Artificial Intelligence
     *  IEEE Transactions on Network Science and Engineering
     *  Entropy
     *  Applied Sciences
