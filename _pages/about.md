@@ -34,8 +34,9 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 
 **If you are interested in joining my group, please take a look at my research and google scholars for details.**
 
+* **Postdoc opening** in scientific machine learning, reduced order modeling, starting from 2023 Spring.
 
-* **Ph.D. openings** in scientific machine learning, reduced-order modeling. Graduate students should apply directly to the RPI Graduate Admissions
+* **Ph.D. openings** in scientific machine learning, reduced-order modeling starting from 2023 Fall. Graduate students should apply directly to the RPI Graduate Admissions
 
 * **Undergraduate & M.S. students at RPI** looking for research opportunities can email **pans2@rpi.edu** with their interests and any relevant coursework or research experience.
 
