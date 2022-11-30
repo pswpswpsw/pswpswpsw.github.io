@@ -43,6 +43,12 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 
 ## Announcements
 
+**Nov 2022:** Shaowu presented PyKoopman in 75th APS-DFD in Indianapolis!
+
+**Nov 2022:** Shaowu presented neural implicit flow in SIAM Annual Meeting TX-LA in Houston!
+
+**Sep 2022:** Sandesh joins the lab, welcome!
+
 **Aug 2022:** Shaowu begins the journey as Assistant Professor!
 
 <!-- 
