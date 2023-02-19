@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 td {
-  font-size: 20px
+  font-size: 18px
 }
 </style>
 
@@ -15,8 +15,8 @@ td {
 
 ## Ph.D. students
 
-- Nithin Somasekharan
 <img src='/images/photos/nithin.jpg' align="left" width="100" height="50"> 
+- Nithin Somasekharan
     - M.Tech., Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019
     - B.Tech., Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017
 
