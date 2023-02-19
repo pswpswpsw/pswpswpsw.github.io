@@ -9,7 +9,7 @@ author_profile: true
 
 ## Ph.D. students
 
- &nbsp;  |  &nbsp; |  &nbsp; 
+| | |
 |   :-:       | :-:         | :-:         |
 | <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10"> |  <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10">| <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10">| 
 
