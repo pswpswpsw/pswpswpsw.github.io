@@ -11,7 +11,11 @@ author_profile: true
 
 | | |
 |   :-:       | :-:         | :-:         |
-| <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10"> |  <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10">| <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10">| 
+| <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10"> 
+M.S., Aerospace Engineering, University of XXX, 2019 - Present
+B.S., Aerospace Engineering, University of XXX, 2014 - 2019
+| <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10"> 
+| <img src='/images/image-alignment-150x150.jpg' align="center" width="200" height="10">| 
 
 ## M.S. students
 
