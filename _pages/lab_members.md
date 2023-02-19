@@ -22,3 +22,4 @@ author_profile: true
 - Kyus Spence, 2023 Spring--
 - Isabelle Formica, 2023 Spring--
 
+## Alumnus
