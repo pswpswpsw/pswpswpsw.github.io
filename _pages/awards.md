@@ -5,12 +5,12 @@ permalink: /services_awards/
 author_profile: true
 ---
 
-# Teaching
+## Teaching
 
 * Numerical Methods and Programming for Engineers (2023 Spring)
 * Aerodynamics (2022 Fall)
 
-# Reviewing
+## Reviewing
 * Nature Communications
 * Journal of Fluid Mechanics
 * Physical Review Fluids
@@ -38,10 +38,10 @@ author_profile: true
 * IEEE Transactions on Network Science and Engineering
 
     
-# Memberships
+## Memberships
 * SIAM, AIAA, APS
 
-# Awards
+## Awards
 
 * Chinese Outstanding Student Abroad Award, 2021
 * Honorable Mention for Richard and Eleanor Towner Prize for Outstanding Ph.D. Research, 2019
