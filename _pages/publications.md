@@ -16,7 +16,7 @@ author_profile: true
 
 ## Journal articles
 
-|        | Title |
+|    Summary Figure    | Reference |
 |   :-:    | -       |
 | <img src='/images/publications/2023_jmlr/1.png' align="center" width="200" height="10"> | __Shaowu Pan__, Steven Brunton, and Nathan Kutz.  <br><br> [__Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.__](https://www.jmlr.org/papers/volume24/22-0365/22-0365.pdf)  <br><br> _Journal of Machine Learning Research_ (2023).
 | <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://aia.springeropen.com/articles/10.1186/s42774-021-00087-6)  <br><br> _Advances in Aerodynamics_ (2021).
@@ -35,7 +35,7 @@ author_profile: true
 
 ## Conference proceedings
 
-|        | Title |
+|    Summary Figure    | Reference |
 |   :-:    | -       |  
 | <img src='/images/publications/2014_dsmc/dsmc.png' align="center" width="200" height="10"> |  __Shaowu Pan__, Zhenxun Gao, and Chunhian Lee. <br><br> [__Numerical investigation of rarefaction effects in the vicinity of a sharp leading edge__](http://aip.scitation.org/doi/abs/10.1063/1.4902591). <br><br> _AIP Conference Proceedings_, vol. 1628, no. 1, pp. 185-191. American Institute of Physics, 2014. |
 | <img src='/images/publications/2017_characeter/les.png' align="center" width="200" height="10">  | Anand Pratap Singh, __Shaowu Pan__, and Karthik Duraisamy. <br><br>  [__Characterizing and improving predictive accuracy in shock-turbulent boundary layer interactions using data-driven models__](https://arc.aiaa.org/doi/pdf/10.2514/6.2017-0314). <br><br>   _55th AIAA Aerospace Sciences Meeting_, p. 0314. 2017.  |
