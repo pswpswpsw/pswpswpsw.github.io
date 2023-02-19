@@ -10,6 +10,12 @@ td {
   font-size: 18px
 }
 </style>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 
 {% include base_path %}
 
