@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /awards/
+  - title: "Services & Awards"
+    url: /services_awards/
 
     #  - title: "Research experience"
     #  url: /research/
@@ -23,8 +23,8 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
         
-  - title: "Services"
-    url: /services/
+  # - title: "Services"
+  #   url: /services/
 
 #  - title: "Notes"
 #    url: /notes/
