@@ -7,8 +7,8 @@ author_profile: true
 
 ## Teaching
 
-* Numerical Methods and Programming for Engineers (2023 Spring)
-* Aerodynamics (2022 Fall)
+* MANE 2110: Numerical Methods and Programming for Engineers (2023 Spring)
+* MANE 4070: Aerodynamics (2022 Fall)
 
 ## Reviewing
 * Nature Communications
