@@ -19,10 +19,10 @@ B.Tech., Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2
 
 ## M.S. students
 
-- Jack
+- Jack Herman, 2023 Spring--
 
 ## Undergraduate students
 
-- Kyus
-- 
+- Kyus Spence, 2023 Spring--
+- Isabelle Formica, 2023 Spring--
 
