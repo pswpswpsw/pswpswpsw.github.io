@@ -17,8 +17,8 @@ td {
 
 |             |          |
 |   :-:          |-         |
-| <img src='/images/photos/nithin.jpg' align="center" width="100" height="50"> <br/> __Nithin Somasekharan__  | __Education__ <br> __M.Tech.__, Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> __B.Tech.__, Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
-| <img src='/images/photos/nithin.jpg' align="center" width="100" height="50"> <br/> __Nithin Somasekharan__  | __Education__ <br><br> __M.Tech.__, Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> __B.Tech.__, Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
+| <img src='/images/photos/nithin.jpg' align="center" width="125" height="50"> <br/> __Nithin Somasekharan__  | __Education__ <br> __M.Tech.__, Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> __B.Tech.__, Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
+| <img src='/images/photos/nithin.jpg' align="center" width="125" height="50"> <br/> __Nithin Somasekharan__  | __Education__ <br><br> __M.Tech.__, Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> __B.Tech.__, Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
 
 ## Master students
 
