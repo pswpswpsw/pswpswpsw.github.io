@@ -12,7 +12,7 @@ td {
 </style>
 <style>
 td, th {
-   border: none!important;
+   border: none;
 }
 </style>
 
