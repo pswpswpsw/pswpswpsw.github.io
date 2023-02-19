@@ -10,9 +10,9 @@ author_profile: true
 ## Ph.D. students
 
 | |
-|   :-:       | :-:         |
-| <img src='/images/photos/nithin.jpg' align="center" width="100" height="10"> <br /> __Nithin Somasekharan__  | __Education__ <br /> M.Tech., Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> B.Tech., Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
-| <img src='/images/photos/nithin.jpg' align="center" width="100" height="10"> <br /> __Nithin Somasekharan__  | __Education__ <br /> M.Tech., Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> B.Tech., Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
+|   :-:       | -        |
+| <img src='/images/photos/nithin.jpg' align="center" width="150" height="10"> <br /> __Nithin Somasekharan__  | __Education__ <br /> M.Tech., Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> B.Tech., Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
+| <img src='/images/photos/nithin.jpg' align="center" width="150" height="10"> <br /> __Nithin Somasekharan__  | __Education__ <br /> M.Tech., Aerospace Engineering, Indian Institute of Science (IISc), Bangalore, 2017 - 2019 <br /> B.Tech., Aerospace Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, 2013 - 2017 | 
 
 ## M.S. students
 
