@@ -15,11 +15,11 @@ author_profile: true
 
 ## M.S. students
 
-- Jack Herman, 2023 Spring--
+- Jack Herman, 2023 Spring
 
 ## Undergraduate students
 
-- Kyus Spence, 2023 Spring--
-- Isabelle Formica, 2023 Spring--
+- Kyus Spence, 2023 Spring
+- Isabelle Formica, 2023 Spring
 
 ## Alumnus
