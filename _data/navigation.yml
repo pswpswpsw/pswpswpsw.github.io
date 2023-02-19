@@ -4,6 +4,9 @@ main:
 #   - title: "Short Bio"
 #     url: /bio/
 
+  - title: "Lab Members"
+    url: /lab_members/
+
   - title: "Publications"
     url: /publications/
 

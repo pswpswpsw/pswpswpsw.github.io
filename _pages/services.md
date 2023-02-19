@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* Teaching
+    * Numerical Methods and Programming for Engineers (2023 Spring)
+    * Aerodynamics (2022 Fall)
+
 
 
 * Reviewer
