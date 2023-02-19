@@ -15,6 +15,7 @@ author_profile: true
     * Physical Review Fluids
     * Physics of Fluids
     * Lab on a Chip
+    * Journal of Computational Physics
     *  AIAA Journal
     * Chaos
     *  Proceedings of Royal Society A
@@ -34,9 +35,6 @@ author_profile: true
     *  IEEE Computational Intelligence Magazine
     *  IEEE Transactions on Artificial Intelligence
     *  IEEE Transactions on Network Science and Engineering
-    *  Entropy
-    *  Applied Sciences
-    *  Mathematical Reviews
     
 * President 
   * MTech (2016 – 2020)
