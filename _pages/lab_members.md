@@ -5,6 +5,12 @@ permalink: /lab_members/
 author_profile: true
 ---
 
+<style>
+td {
+  font-size: 50px
+}
+</style>
+
 {% include base_path %}
 
 ## Ph.D. students
