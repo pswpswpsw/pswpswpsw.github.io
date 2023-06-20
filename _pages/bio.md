@@ -7,6 +7,20 @@ redirect_from:
   - /resume
 ---
 
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NTK9P90P45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NTK9P90P45');
+</script>
+</head> 
+
+
 ## Education
 
 * __Ph.D.__ in Aerospace Engineering, University of Michigan, Ann Arbor, 2020 (expected)

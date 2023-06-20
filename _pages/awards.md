@@ -5,6 +5,18 @@ permalink: /services_awards/
 author_profile: true
 ---
 
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NTK9P90P45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NTK9P90P45');
+</script>
+</head> 
+
 ## Teaching
 
 * __MANE 2110__: Numerical Methods and Programming for Engineers (2023 Spring)
