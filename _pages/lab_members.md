@@ -37,6 +37,7 @@ td, th {
 - Nithin Somasekharan
 - Raymond Chien
 - Shahriar Akbar
+- Weichao Li
 
 ## Master students
 
