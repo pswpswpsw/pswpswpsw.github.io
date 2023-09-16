@@ -3,6 +3,8 @@ main:
 
 #   - title: "Short Bio"
 #     url: /bio/
+  - title: "Research"
+    url: /research/
 
   - title: "Lab Members"
     url: /lab_members/
