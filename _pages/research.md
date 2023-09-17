@@ -17,10 +17,11 @@ My research is predicated on the synthesis of traditional computational paradigm
 ## Thrust 1: Operator-theoretic Modeling and Control of Nonlinear Dynamical Systems
 
 
-<img src='/images/koopman-overview.png' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
 
 Classical approach for nonlinear systems follows the geometrical approach to describe the evolution of nonlinear dynamics in the high-dimensional state-space. Alternatively, one can switch the attention to the observable on such state-space. In contrast to classical techniques, Koopman operator seeks a linear embedding of non-linear dynamical systems from high-dimensional data from either sparse experimental measurements of the system. This transforms non-linear systems into linear systems for which closed-form analytical solutions are often available. It renders a control-oriented model for any nonlinear system. As an example of "modeling for control", one can have Koopman-based model predictive control (MPC) which converts a non-linear MPC into a much faster linear counterpart. 
 
+
+<img src='/images/koopman-overview.png' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
 
 In spite of significant strides made in the theoretical exploration of the Koopman operator, the practical aspect of learning this operator from data remains an open question. Over recent years, my team and I have pioneered a range of computational and numerical methods, complemented by theoretical insights, aimed at establishing a more robust and precise framework for learning the Koopman operator from empirical data sets. This multi-pronged approach not only enhances the accuracy of Koopman operator approximations but also fortifies its applicability across diverse scientific and engineering contexts. 
 
