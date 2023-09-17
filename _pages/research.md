@@ -11,22 +11,25 @@ Over the past decades, we have witnessed the success of classic computational pa
 - Third, data from high-fidelity simulations and experiments are not fully exploited (beyond validation). 
 
 
-My research is predicated on the synthesis of traditional computational paradigms with cutting-edge techniques in deep learning to address complex challenges in aerospace engineering. The methodologies we have developed are not only targeted but also versatile, possessing the potential for application in a variety of other engineering sectors. My scholarly focus is dedicated to rigorously examining the foundational elements of scientific machine learning through a multidisciplinary prism that incorporates applied mathematics, engineering physics, and machine learning disciplines. This comprehensive approach is strategically designed to address intricate nonlinear dynamical systems. Our work is fundamentally anchored in the theories of dynamical systems, deep learning algorithms, optimization techniques, and fluid mechanics.
+**My research is predicated on the synthesis of traditional computational mathematics paradigms with cutting-edge techniques in deep learning to address complex challenges in aerospace engineering.** The methodologies we have developed are not only targeted but also versatile, possessing the potential for application in a variety of other engineering sectors (e.g., nuclear, manufacturing). My scholarly focus is dedicated to rigorously examining the foundational elements of scientific machine learning through a multidisciplinary prism that incorporates applied mathematics, engineering physics, and machine learning disciplines. This comprehensive approach is strategically designed to address intricate nonlinear dynamical systems. Our work is fundamentally anchored in the theories of dynamical systems, deep learning algorithms, optimization techniques, and fluid mechanics.
 
 
 ## Thrust 1: Operator-theoretic Modeling and Control of Nonlinear Dynamical Systems
-
-
 
 Classical approach for nonlinear systems follows the geometrical approach to describe the evolution of nonlinear dynamics in the high-dimensional state-space. Alternatively, one can switch the attention to the observable on such state-space. In contrast to classical techniques, Koopman operator seeks a linear embedding of non-linear dynamical systems from high-dimensional data from either sparse experimental measurements of the system. This transforms non-linear systems into linear systems for which closed-form analytical solutions are often available. It renders a control-oriented model for any nonlinear system. As an example of "modeling for control", one can have Koopman-based model predictive control (MPC) which converts a non-linear MPC into a much faster linear counterpart. 
 
 
 <img src='/images/koopman-overview.png' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
 
-In spite of significant strides made in the theoretical exploration of the Koopman operator, the practical aspect of learning this operator from data remains an open question. Over recent years, my team and I have pioneered a range of computational and numerical methods, complemented by theoretical insights, aimed at establishing a more robust and precise framework for learning the Koopman operator from empirical data sets. This multi-pronged approach not only enhances the accuracy of Koopman operator approximations but also fortifies its applicability across diverse scientific and engineering contexts. 
+In spite of significant strides made in the theoretical exploration of the Koopman operator, the practical aspect of learning this operator from data remains an open question. Over recent years, we have pioneered a range of computational and numerical methods, complemented by theoretical insights, aimed at establishing a more robust and precise framework for learning the Koopman operator from empirical data sets. This multi-pronged approach not only enhances the accuracy of Koopman operator approximations but also fortifies its applicability across diverse scientific and engineering contexts. 
 
 
-## Thrust 2: Physics-Informed Predictive Reduced-Complexity Learning of PDE systems 
+## Thrust 2: Predictive Reduced-Complexity Learning of Nonlinear PDE Systems 
 
+Unlike nonlinear ODE systems, modeling PDE system is more challenging in that one would desire not only an accurate description of the complex, potentially multi-physics process (e.g., fluid-structure interaction) but also developing efficient computational models for many-query situations (e.g., uncertainty quantification, design optimization). Depending on whether the discretization of the governing equation is used during model deployment, one can choose between two families of methods: *intrusive* (e.g., reduced-order modeling, POD-Galerkin, LSPG) or *non-intrusive* (e.g., deep learning/machine learning surrogates, operator inference). While the former one utilizes known governing equations thus has better generalization, the latter has much order of maginitute speed up thus it is preferred for many-query or time-senseitive tasks such as uncertainty quantification and control. 
+
+<img src='/images/nif.png' align="center" width="882" height="512" style="vertical-align:left;margin:0px 30px"> 
+
+During the past few years, we have developed several novel techniques to tackle challenging problems such as turbulence modeling (RANS) over an airfoil, sparse sensing of dynamically evolving spatial fields, and operator learning even for arbitrary complex geometry under adaptive mesh refinement.  
 
 
