@@ -42,7 +42,7 @@ Previously,
 
 Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI.
 
-<img src='/images/lab0rpi.png' align="center" width="441" height="256" style="vertical-align:left;margin:0px 30px"> 
+<img src='/images/lab0rpi.png' align="center" width="662" height="384" style="vertical-align:left;margin:0px 30px"> 
 
 **If you are interested in joining my group, please take a look at my research and google scholars for details.**
 
