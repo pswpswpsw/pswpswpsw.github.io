@@ -13,6 +13,8 @@ Over the past decades, we have witnessed the success of classic computational pa
 
 **My research is predicated on the synthesis of traditional computational mathematics paradigms with cutting-edge techniques in deep learning to address complex challenges in aerospace engineering.** The methodologies we have developed are not only targeted but also versatile, possessing the potential for application in a variety of other engineering sectors (e.g., nuclear, manufacturing). My scholarly focus is dedicated to rigorously examining the foundational elements of scientific machine learning through a multidisciplinary prism that incorporates applied mathematics, engineering physics, and machine learning disciplines. This comprehensive approach is strategically designed to address intricate nonlinear dynamical systems. Our work is fundamentally anchored in the theories of dynamical systems, deep learning algorithms, optimization techniques, and fluid mechanics.
 
+---
+
 
 ## Thrust 1: Operator-theoretic Modeling and Control of Nonlinear Dynamical Systems
 
