@@ -23,6 +23,7 @@ Classical approach for nonlinear systems follows the geometrical approach to des
 
 In spite of significant strides made in the theoretical exploration of the Koopman operator, the practical aspect of learning this operator from data remains an open question. Over recent years, we have pioneered a range of computational and numerical methods, complemented by theoretical insights, aimed at establishing a more robust and precise framework for learning the Koopman operator from empirical data sets. This multi-pronged approach not only enhances the accuracy of Koopman operator approximations but also fortifies its applicability across diverse scientific and engineering contexts. 
 
+---
 
 ## Thrust 2: Predictive Reduced-Complexity Learning of Nonlinear PDE Systems 
 
