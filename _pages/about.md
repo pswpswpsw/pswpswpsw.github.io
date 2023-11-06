@@ -44,16 +44,20 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 
 <!-- <img src='/images/lab0rpi.png' align="center" width="662" height="384" style="vertical-align:left;margin:0px 30px">  -->
 
-**If you are interested in joining my group, please take a look at my research and google scholars for details.**
+<!-- **If you are interested in joining my group, please take a look at my research and google scholars for details.**
 
 * **Postdoc opening** in scientific machine learning, reduced order modeling, starting from 2023 Spring.
 
 * **Ph.D. openings** in scientific machine learning, reduced-order modeling starting from 2023 Fall. Graduate students should apply directly to the RPI Graduate Admissions
 
-* **Undergraduate & M.S. students at RPI** looking for research opportunities can email **pans2@rpi.edu** with their interests and any relevant coursework or research experience.
+* **Undergraduate & M.S. students at RPI** looking for research opportunities can email **pans2@rpi.edu** with their interests and any relevant coursework or research experience. -->
 
 
 ## Announcements
+
+**Nov 2023:** Congrats to Jake Herman successfully defended his Master thesis on _Learning Linear Evolution of PDE via Koopman Operator_!
+
+**Sep 2023:** Congrats to Nithin easily passed the qualifying exam!
 
 **Sep 2023:** Welcome Weichao!
 
