@@ -42,7 +42,14 @@ Previously,
 
 Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. 
 
-**Our mission: pushing the boundary of scientific machine learning in ME/AE via transformative ideas!** 
+**What's our mission?**
+Our mission is to pioneer advanced modeling and simulations in Mechanical and Aerospace Engineering by harnessing the power of scientific machine learning.
+
+**What are our interests?**
+
+- Scientific machine learning for large-scale nonlinear systems
+- Operator-theoretic modeling and control of fluid flows
+- Generative AI for physical systems
 
 ## Research Highlights
 
@@ -56,24 +63,24 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 **Nov 2023:** We will see you in APS-DFD in DC. Here Nithin will present his work on differentiable programming meets high-order methods!
 
 <details>
-  <summary>Old news</summary>
+  <summary>More</summary>
 
-**Nov 2023:** Congrats to Jake Herman successfully defended his Master thesis on _Learning Linear Evolution of PDE via Koopman Operator_!
+  **Nov 2023:** Congrats to Jake Herman successfully defended his Master thesis on _Learning Linear Evolution of PDE via Koopman Operator_!
 
-**Sep 2023:** Congrats to Nithin easily passed the qualifying exam!
+  **Sep 2023:** Congrats to Nithin easily passed the qualifying exam!
 
-**Sep 2023:** Welcome Weichao!
+  **Sep 2023:** Welcome Weichao!
 
-**Jan 2023:** Welcome Nithin and Shahriar!
+  **Jan 2023:** Welcome Nithin and Shahriar!
 
-**Nov 2022:** Shaowu presented PyKoopman in 75th APS-DFD in Indianapolis!
+  **Nov 2022:** Shaowu presented PyKoopman in 75th APS-DFD in Indianapolis!
 
-**Nov 2022:** Shaowu presented neural implicit flow in SIAM Annual Meeting TX-LA in Houston!
+  **Nov 2022:** Shaowu presented neural implicit flow in SIAM Annual Meeting TX-LA in Houston!
 
-**Oct 2022:** Welcome Raymond from Benét Laboratories!
+  **Oct 2022:** Welcome Raymond from Benét Laboratories!
 
-**Sep 2022:** Sandesh joins the lab, welcome!
+  **Sep 2022:** Sandesh joins the lab, welcome!
 
-**Aug 2022:** Shaowu begins the journey as Assistant Professor!
+  **Aug 2022:** Shaowu begins the journey as Assistant Professor!
 
 </details>
