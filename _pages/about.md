@@ -43,7 +43,8 @@ Previously,
 Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. 
 
 **What's our mission?**
-Our mission is to pioneer advanced modeling and simulations in Mechanical and Aerospace Engineering by harnessing the power of scientific machine learning.
+
+- Our mission is to pioneer advanced modeling and simulations in Mechanical and Aerospace Engineering by harnessing the power of scientific machine learning.
 
 **What are our interests?**
 
