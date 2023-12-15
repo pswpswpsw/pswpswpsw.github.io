@@ -40,20 +40,23 @@ Previously,
 
 ---> 
 
-Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI.
+Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the Department of Mechanical, Aerospace, and Nuclear Engineering at RPI. 
 
-<!-- <img src='/images/lab0rpi.png' align="center" width="662" height="384" style="vertical-align:left;margin:0px 30px">  -->
+**Our mission: pushing the boundary of scientific machine learning in ME/AE via transformative ideas!** 
 
-<!-- **If you are interested in joining my group, please take a look at my research and google scholars for details.**
+## Research Highlights
 
-* **Postdoc opening** in scientific machine learning, reduced order modeling, starting from 2023 Spring.
-
-* **Ph.D. openings** in scientific machine learning, reduced-order modeling starting from 2023 Fall. Graduate students should apply directly to the RPI Graduate Admissions
-
-* **Undergraduate & M.S. students at RPI** looking for research opportunities can email **pans2@rpi.edu** with their interests and any relevant coursework or research experience. -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y09_uGjd1zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Announcements
+<iframe width="280" height="157" src="https://www.youtube.com/embed/_a5IdVN2D_g" title="YouTube video player" frameborder="4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## News
+
+**Nov 2023:** We will see you in APS-DFD in DC. Here Nithin will present his work on differentiable programming meets high-order methods!
+
+<details>
+  <summary>Old news</summary>
 
 **Nov 2023:** Congrats to Jake Herman successfully defended his Master thesis on _Learning Linear Evolution of PDE via Koopman Operator_!
 
@@ -73,82 +76,4 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 
 **Aug 2022:** Shaowu begins the journey as Assistant Professor!
 
-<!-- 
-**Update: I will be joining the [Rensselaer Polytechnic Institute](https://mane.rpi.edu/) as a Tenure-Track Assistant Professor in the Department of Mechanical, Aerospace, and Nuclear Engineering starting 2022 Fall.** Multiple fully-funded Ph.D. positions available starting Spring 2023. Different topics available including 
-* physics-informed machine learning, 
-* artificial intelligence for fluid dynamics, 
-* data-driven control of dynamic systems. 
-
-Students with a strong math/coding background are encouraged to [apply](https://admissions.rpi.edu/graduate/masters-and-phd-applicants). Deadline for Spring 2023 is August 15, 2022.  -->
-
-
-
-
-<!---
-
-I am currently a Postdoctoral Scholar at the Unversity of Washington-Seattle collaborating with [Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven Brunton](https://www.eigensteve.com/). 
-
-My 
-* machine learning / deep learning for computational physics
-* control-oriented data-driven predictive reduced-order-modeling
-* high performance computing for turbulence simulation
----> 
-
-## Research Highlights
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y09_uGjd1zM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<iframe width="280" height="157" src="https://www.youtube.com/embed/_a5IdVN2D_g" title="YouTube video player" frameborder="4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<!-- ## Education
-
-  * Ph.D. in Aerospace Engineering and Scientific Computing, [University of Michigan, Ann Arbor](https://aero.engin.umich.edu/), Dec. 2020
-
-      * Advisor: Prof. [Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
-  * M.S.E. in Mechanical Engineering, [University of Michigan, Ann Arbor](https://aero.engin.umich.edu/), Dec. 2015
-
-      * Advisor: Prof. [Eric Johnsen](http://www-personal.umich.edu/~ejohnsen/)
-  * B.S. in Applied Mathematics, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
-  * B.E. in Aerospace Engineering, [Beihang University](https://en.wikipedia.org/wiki/Beihang_University), Beijing, July 2013
-
-      * Advisor: Prof. [Chun-hian Lee](http://www.ase.buaa.edu.cn/info/1104/2008.htm)
-
-[Google scholar](https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en) [CV](https://www.dropbox.com/s/hgwouastob08utn/academic_long_resume.pdf?dl=0)
- -->
-
-
-
-
-
-<!---* Physics-based computational/data-driven modelling
-* High fidelity direct numerical simulation (DNS) of compressible turbulence
-* Rarefied gas dynamics, direct simulation Monte Carlo (DSMC)
--->
-<!---
-# Work Experiences
-
-* 2016 Sep - present: Graduate Research Assistant
-  * [Computational Aerosciences Laboratory](http://umich.edu/~caslab/), University of Michigan, Ann Arbor
-  * Supervisor: [Prof. Karthik Duraisamy](https://aero.engin.umich.edu/people/karthik-duraisamy/)
-
-* 2016 Jan - 2016 July: Application Engineer Intern
-  * [Exa Corporation](https://www.exa.com/)
-  * Supervisor: [Mr. Adrien Mann](https://www.linkedin.com/in/adrienmann/)
-
-* 2014 Mar - 2014 July: Research Engineer Intern
-  * [Advanced Micro-Fabrication Equipment Inc.](http://www.amec-inc.com/) 
-  * Supervisor: [Dr. Ning Zhou](https://www.linkedin.com/in/ning-zhou-58881b57/)
--->
-<!---
- # Tools
-
-* Programming: Fortran, Python, Cython, C++, Matlab
-* HPC: HDF, MPI, OpenMP
-* Data analytics: Keras/Tensorflow, scikit-learn
-* Data processing: Hive, Pig
-* Data visualization tools: Paraview, Tecplot, Visit
--->
-
-
+</details>
