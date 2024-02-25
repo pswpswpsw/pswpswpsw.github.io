@@ -18,11 +18,25 @@ author_profile: true
 </head> 
 
 ## Teaching
+**Scientific Machine Learning**
+  - **Code:** MANE 6961
+  - **Credits:** 3
+  - **Semester Offered:** Spring 2024
 
-* __MANE 2110__: Numerical Methods and Programming for Engineers (2023 Spring, 2024 Fall)
-* __MANE 4070__: Aerodynamics (2022 Fall)
+- **Aerodynamics**
+  - **Code:** MANE 4070
+  - **Credits:** 4
+  - **Semester Offered:** Fall 2022
+
+- **Numerical Methods and Programming for Engineers**
+  - **Code:** MANE 2110
+  - **Credits:** 3
+  - **Semesters Offered:**
+    - Spring 2023
+    - Fall 2024
 
 ## Reviewing
+* Physical Review Letters
 * Nature Communications
 * Journal of Fluid Mechanics
 * Physical Review Fluids
@@ -51,7 +65,7 @@ author_profile: true
 
     
 ## Memberships
-* SIAM, AIAA, APS
+* AIAA Fluid Dynamics Technical Committee
 
 ## Awards
 
