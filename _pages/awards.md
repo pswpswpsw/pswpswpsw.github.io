@@ -18,22 +18,17 @@ author_profile: true
 </head> 
 
 ## Teaching
-**Scientific Machine Learning**
-  - **Code:** MANE 6961
-  - **Credits:** 3
-  - **Semester Offered:** Spring 2024
+- Scientific Machine Learning (MANE 6961) 
+  - Credits: 3
+  - Semester: Spring 2024
 
-- **Aerodynamics**
-  - **Code:** MANE 4070
-  - **Credits:** 4
-  - **Semester Offered:** Fall 2022
+- Aerodynamics (MANE 4070)
+  - Credits: 4
+  - Semester: Fall 2022
 
-- **Numerical Methods and Programming for Engineers**
-  - **Code:** MANE 2110
-  - **Credits:** 3
-  - **Semesters Offered:**
-    - Spring 2023
-    - Fall 2024
+- Numerical Methods and Programming for Engineers (MANE 2110)
+  - Credits: 3
+  - Semester: Spring 2023, Fall 2024
 
 ## Reviewing
 * Physical Review Letters
