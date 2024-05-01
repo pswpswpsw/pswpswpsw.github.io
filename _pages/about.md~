@@ -61,10 +61,17 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 
 ## News
 
+**Apr 2024:** I will join the technical committee of Fluid Dynamics in AIAA. Looking forward to talk with this exciting community. 
+
 **Nov 2023:** We will see you in APS-DFD in DC. Here Nithin will present his work on differentiable programming meets high-order methods!
 
 <details>
+
   <summary>More</summary>
+
+  **Apr 2024** Our paper on exploiting symmetry for Koopman operator is published on __Nonlinear Dynamics__. [link](https://link.springer.com/article/10.1007/s11071-024-09581-0)
+  
+  **Jan 2024** Our paper with University of Maryland on Physics-Informed Machine Learning for Plasmas is featured on __Physics of Plasma__ [link](https://pubs.aip.org/aip/pop/article/31/3/032510/3278910)
 
   **Nov 2023:** Congrats to Jake Herman successfully defended his Master thesis on _Learning Linear Evolution of PDE via Koopman Operator_!
 
