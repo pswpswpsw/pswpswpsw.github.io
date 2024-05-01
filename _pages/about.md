@@ -69,6 +69,10 @@ Welcome to the **Computational Scientific Machine Learning Lab (CSML)** from the
 
   <summary>More</summary>
 
+  **Apr 2024** Our paper on exploiting symmetry for Koopman operator is published on __Nonlinear Dynamics__. [link](https://link.springer.com/article/10.1007/s11071-024-09581-0)
+  
+  **Jan 2024** Our paper with University of Maryland on Physics-Informed Machine Learning for Plasmas is featured on __Physics of Plasma__ [link](https://pubs.aip.org/aip/pop/article/31/3/032510/3278910)
+
   **Nov 2023:** Congrats to Jake Herman successfully defended his Master thesis on _Learning Linear Evolution of PDE via Koopman Operator_!
 
   **Sep 2023:** Congrats to Nithin easily passed the qualifying exam!
