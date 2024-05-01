@@ -28,35 +28,35 @@ author_profile: true
 ## Journal articles
 
 |    Summary Figure    | Reference |
-
+//
 | <img src='/images/publications/2024_nody/1.png' align="center" width="200" height="10"> | __Shaowu Pan__, Karthik Duraisamy <br><br> [__Grad–Shafranov equilibria via data-free physics informed neural networks.__](https://link.springer.com/article/10.1007/s11071-024-09581-0)  <br><br> _Nonlinear Dynamics_ (2024).|
-
+//
 | <img src='/images/publications/2024_pop/1.png' align="center" width="200" height="10"> | Byoungchan Jang, Alan A. Kaptanoglu, Rahul Gaur, __Shaowu Pan__, Matt Landreman, William Dorland <br><br> [__Grad–Shafranov equilibria via data-free physics informed neural networks.__](https://pubs.aip.org/aip/pop/article/31/3/032510/3278910)  <br><br> _Physics of Plasmas_ (2024).|
-
+//
 | <img src='/images/publications/2024_joss/1.png' align="center" width="200" height="10"> | __Shaowu Pan__, Eurika Kaiser, Brian M. de Silva, Nathan Kutz, and Steven L. Brunton.  <br><br> [__PyKoopman: A Python Package for Data-Driven Approximation of the Koopman Operator.__](https://joss.theoj.org/papers/10.21105/joss.05881)  <br><br> _Journal of Open Source Software_ (2024).|
-
+//
 | <img src='/images/publications/2023_jmlr/1.png' align="center" width="200" height="10"> | __Shaowu Pan__, Steven Brunton, and Nathan Kutz.  <br><br> [__Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data.__](https://www.jmlr.org/papers/volume24/22-0365/22-0365.pdf)  <br><br> _Journal of Machine Learning Research_ (2023).|
-
+//
 | <img src='/images/publications/2020_PIV/framework.png' align="center" width="200" height="10"> | Qi Gao, __Shaowu Pan__, Hongping Wang, Runjie Wei, and Jinjun Wang.  <br><br> [__Particle reconstruction of volumetric particle image velocimetry with strategy of machine learning.__](https://aia.springeropen.com/articles/10.1186/s42774-021-00087-6)  <br><br> _Advances in Aerodynamics_ (2021).|
-
+//
 | <img src='/images/publications/2021_jcpa/jp1c05102_0010.gif' align="center" width="200" height="10"> |  Weiqi Ji, Weilun Qiu, Zhiyu Shi, __Shaowu Pan__, and Sili Deng. <br><br> [__Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics__](https://pubs.acs.org/doi/full/10.1021/acs.jpca.1c05102) <br><br>  _Journal of Physical Chemistry A_ (2021)|
-
+//
 | <img src='/images/publications/2020_sparse_jfm/framework.png' align="center" width="200" height="10"> |  __Shaowu Pan__, Nicholas Arnold-Medabalimi, and Karthik Duraisamy. <br><br> [__Sparsity-promoting algorithms for the discovery of informative Koopman invariant subspaces__](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/sparsitypromoting-algorithms-for-the-discovery-of-informative-koopmaninvariant-subspaces/F52F03ED181023369A661EF09B57281A) <br><br>  _Journal of Fluid Mechanics_ (2021)|
-
+//
 | <img src='/images/publications/2020_structure/fig_1_geom_inter.png' align="center" width="200" height="10">  |__Shaowu Pan__, and Karthik Duraisamy. <br><br> [__On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical Systems__](https://aip.scitation.org/doi/10.1063/5.0010886) <br><br>  _Chaos: An Interdisciplinary Journal of Nonlinear Science_ (2020).  |
-
+//
 | <img src='/images/publications/2020_nnkoopman/koopman_nn_latex.png' align="center" width="200" height="10"> |  __Shaowu Pan__, and Karthik Duraisamy.  <br><br> [__Physics-Informed Probabilistic Learning of Linear Embeddings of Non-linear Dynamics With Guaranteed Stability__](https://epubs.siam.org/doi/pdf/10.1137/19M1267246).  <br><br>_SIAM Journal on Applied Dynamical Systems_ 19, no. 1 (2020): 480-509.|
-
+//
 | <img src='/images/publications/2019_pinn/101nuv_compare.png' align="center" width="200" height="10">  | Luning Sun, Han Gao, __Shaowu Pan__, and Jian-Xun Wang. <br><br> [__Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without Simulation Data__](https://arxiv.org/pdf/1906.02382). <br><br> _Computer Methods in Applied Mechanics and Engineering_ 361 (2020): 112732.  |
-
+//
 | <img src='/images/publications/2019_cnncfd/ezgif.com-webp-to-jpg.jpg' align="center" width="200" height="10"> | Saakaar Bhatnagar, Yaser Afshar, __Shaowu Pan__, Karthik Duraisamy, and Shailendra Kaushik. <br><br> [__Prediction of Aerodynamic Flow Fields Using Convolutional Neural Networks__](https://rdcu.be/bGzuh). <br><br>_Computational Mechanics_ 64, no. 2 (2019): 525-545. |
-
+//
 | <img src='/images/publications/2018_longNN/fig26.png' align="center" width="200" height="10">  | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Long-time predictive modeling of nonlinear dynamical systems using neural networks__](https://www.hindawi.com/journals/complexity/2018/4801012/) <br><br> _Complexity_ (2018).  (invited) |
-
+//
 | <img src='/images/publications/2018_data_closure/no_closure_compare_test_snapshots_1d_vbe.png' align="center" width="200" height="10"> | __Shaowu Pan__, and Karthik Duraisamy. <br><br> [__Data-driven Discovery of Closure Models__](https://epubs.siam.org/doi/abs/10.1137/18M1177263?mobileUi=0) <br><br> _SIAM Journal on Applied Dynamical Systems_ 17, no. 4 (2018): 2381-2413. |
-
+//
 | <img src='/images/publications/2017_jfm/fig02a.png' align="center" width="200" height="10"> |  __Shaowu Pan__, and Eric Johnsen. <br><br>  [__The role of bulk viscosity on the decay of compressible, homogeneous, isotropic turbulence__](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/role-of-bulk-viscosity-on-the-decay-of-compressible-homogeneous-isotropic-turbulence/96619135BA0A3ACB20EAC44ADF8261D1)  <br><br>  _Journal of Fluid Mechanics_ 833 (2017): 717-744. |
-
+//
 | <img src='/images/publications/2015_aiaa/figure9.jpeg' align="center" width="200" height="10"> | Zhenxun Gao, Chongwen Jiang, __Shaowu Pan__, and Chun-Hian Lee. <br><br>  [__Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary Layers__](https://arc.aiaa.org/doi/abs/10.2514/1.J053585). <br><br> _AIAA Journal_ 53, no. 7 (2015): 1949-1968.|
 
 
