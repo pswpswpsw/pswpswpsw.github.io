@@ -49,4 +49,7 @@ td, th {
 - Kyus Spence, 2023 Spring
 - Isabelle Formica, 2023 Spring
 
-## Lab Alumnus
+# Lab Resources
+
+[Github link](https://github.com/csml-rpi)
+
