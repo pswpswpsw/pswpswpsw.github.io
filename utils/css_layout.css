@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-
+/* Merriweather Font - loaded from Google Fonts */
 
     /*
         utils css
@@ -46,19 +46,19 @@
     text-align: center;
   }
   #sidebar div.info > .name{
-      font-family: "PT Serif", "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Merriweather", "PT Serif", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: bold;
       /* font-style: italic; Removed italics as requested */
   }
   #sidebar div.info > .name_chinese{
-      font-family: "PT Serif", Helvetica, Arial, sans-serif;
+      font-family: "Merriweather", "PT Serif", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: bold;
   }
   #sidebar div.info > .email{
       font-size: 14px;
-      font-family: "PT Serif", "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Merriweather", "PT Serif", "Lato", Helvetica, Arial, sans-serif;
       font-style: italic;
       font-weight: 400;
   }
@@ -81,7 +81,7 @@
     cursor: pointer;
     padding: 12px 30px; /* Increased padding slightly */
     background: #0765A0;
-    font-family: "PT Serif", sans-serif;
+    font-family: "Merriweather", "PT Serif", sans-serif;
     font-size: 15px; /* Explicit font size */
     font-weight: 500; /* slightly bolder for readability */
     letter-spacing: 0.5px; /* Slight spacing for serif fonts */
@@ -114,7 +114,7 @@
   #main > div.content{
     padding: 10px 50px;
     line-height: 25px;
-    font-family: 'PT Serif', 'Lato', sans-serif;
+    font-family: "Merriweather", 'PT Serif', 'Lato', sans-serif;
     font-weight: 450;
     font-size: 16px;
   }
@@ -126,7 +126,7 @@
     margin-bottom:10px;
     font-size:2em;
     font-weight:bold;
-    font-family: "PT Serif", sans-serif;
+    font-family: "Merriweather", "PT Serif", sans-serif;
   }
 
   #main > div.subtitle
@@ -136,7 +136,7 @@
     margin-bottom: 5px;
     font-size: 1.2em;
     font-weight: 600;
-    font-family: "PT Serif", sans-serif;
+    font-family: "Merriweather", "PT Serif", sans-serif;
   }
   #main div.linebreak{
     padding: 5px;
