@@ -49,7 +49,7 @@
       font-family: "PT Serif", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: bold;
-      font-style: italic;
+      /* font-style: italic; Removed italics as requested */
   }
   #sidebar div.info > .name_chinese{
       font-family: "PT Serif", Helvetica, Arial, sans-serif;
@@ -79,9 +79,12 @@
     display: block;
     color: white;
     cursor: pointer;
-    padding: 10px 30px;
+    padding: 12px 30px; /* Increased padding slightly */
     background: #0765A0;
     font-family: "PT Serif", sans-serif;
+    font-size: 15px; /* Explicit font size */
+    font-weight: 500; /* slightly bolder for readability */
+    letter-spacing: 0.5px; /* Slight spacing for serif fonts */
   }
   #navigation > a.nav_item:hover{
     background: #3D7EB0;
