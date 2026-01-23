@@ -9,6 +9,9 @@
   <!-- -->
   <link rel="stylesheet" type="text/css"
     href="https://cdnjs.cloudflare.com/ajax/libs/lato-font/3.0.0/css/lato-font.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="utils/cssReset.css" />
   <link rel="stylesheet" type="text/css" href="utils/css_layout.css" />
   <title>Prof. Shaowu Pan</title>
@@ -107,10 +110,12 @@
 
   <div id="main">
     <div class="title">
-      <a class="title_link" id="members" href="#members">Lab Members</a>
+      <a class="title_link" id="members" href="#members">Current Lab Members</a>
     </div>
 
-    <div class="content">
+
+    <div class="content"> 
+
       <h1> Ph.D. students </h1>
       <ul>
         <li>Nithin Somasekharan</li>
@@ -121,7 +126,6 @@
         <li>Raymond Chien</li>
       </ul>
 
-
       <h1> Undergraduates </h1>
       <ul>
         <li>Youssef Hassan (CS)</li>
@@ -131,8 +135,52 @@
       </ul>
     </div>
 
-    <div class="row-fluid">
-      <div class="span8">
+  
+    <div class="title">
+    <a class="title_link" id="photos" href="#photos">Photos</a>
+    </div>
+
+        <div class="content">
+          <div id="myCarousel" class="carousel slide" style="margin-top: 0px;">
+            <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+              <li data-target="#myCarousel" data-slide-to="3"></li>
+            </ol>
+            <!-- Carousel items -->
+            <div class="carousel-inner">
+              <div class="active item">
+                <img src="resources/people/2026-s-group-dinner.jpg" style="width:100%; height:300px; object-fit:cover; display:block;" alt="2026-Spring, Group dinner.">
+                <div class="carousel-caption">
+                  <p>2026-Spring, Group dinner.</p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="resources/people/2025-nithin-euromac.jpg" style="width:100%; height:300px; object-fit:cover; display:block;" alt="2025-4, Nithin presented his work in London.">
+                <div class="carousel-caption">
+                  <p>2025-4, Nithin presented his work in London.</p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="resources/people/2024-10-weichao-shaowu-nithin.jpg" style="width:100%; height:300px; object-fit:cover; display:block;" alt="2024-10, Weichao, Nithin and myself.">
+                <div class="carousel-caption">
+                  <p>2024-10, Weichao, Nithin and myself.</p>
+                </div>
+              </div>
+              <div class="item">
+                <img src="resources/people/2025-09-group-dinner.jpg" style="width:100%; height:300px; object-fit:cover; display:block;" alt="2025-09, Group dinner.">
+                <div class="carousel-caption">
+                  <p>2025-09, Group dinner.</p>
+                </div>
+              </div>
+            </div>
+            <!-- Carousel nav -->
+            <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+            <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+          </div>
+      </div>
+
         <div class="title">
           <a class="title_link" id="Alumni" href="#Alumni">Alumni</a>
         </div>
@@ -141,7 +189,7 @@
           <h1>Former Masters research Students</h1>
           <ul>
             <li>Weichao Li 2025, <span style="color:black;">Next Position: AI algorithm Engineer</span></li>
-            <li>Izzy Formica 2025, <span style="color:black;">Next Position: UMN AEM Ph.D. student</span></li>
+            <!-- <li>Izzy Formica 2025, <span style="color:black;">Next Position: UMN AEM Ph.D. student</span></li> -->
             <li>Sandesh Dhakal 2024, <span style="color:black;">Next Position: Data scientist and Machine Learning
                 Engineer</span></li>
             <li>Jake Herman 2024, <span style="color:black;">Next Position: Process Engineer</span></li>
@@ -152,55 +200,6 @@
             <li>Andy Zhu (CS) 2025, <span style="color:black;">Next Position: Data Scientist at Point72</span></li>
           </ul>
         </div>
-      </div>
-
-      <div class="span4">
-        <div class="title">
-          <a class="title_link" id="photos" href="#photos">Photos</a>
-        </div>
-
-        <div class="content">
-          <div id="myCarousel" class="carousel slide" style="margin-top: 20px;">
-            <ol class="carousel-indicators">
-              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#myCarousel" data-slide-to="1"></li>
-              <li data-target="#myCarousel" data-slide-to="2"></li>
-              <li data-target="#myCarousel" data-slide-to="3"></li>
-            </ol>
-            <!-- Carousel items -->
-            <div class="carousel-inner">
-              <div class="active item">
-                <img src="resources/people/2026-s-group-dinner.jpg" style="width:100%; height:400px; object-fit:contain; display:block;" alt="2026-Spring, Group dinner.">
-                <div class="carousel-caption">
-                  <p>2026-Spring, Group dinner.</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="resources/people/2025-nithin-euromac.jpg" style="width:100%; height:400px; object-fit:contain; display:block;" alt="2025-4, Nithin presented his work in London.">
-                <div class="carousel-caption">
-                  <p>2025-4, Nithin presented his work in London.</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="resources/people/2024-10-weichao-shaowu-nithin.jpg" style="width:100%; height:400px; object-fit:contain; display:block;" alt="2024-10, Weichao, Nithin and myself.">
-                <div class="carousel-caption">
-                  <p>2024-10, Weichao, Nithin and myself.</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="resources/people/2025-09-group-dinner.jpg" style="width:100%; height:400px; object-fit:contain; display:block;" alt="2025-09, Group dinner.">
-                <div class="carousel-caption">
-                  <p>2025-09, Group dinner.</p>
-                </div>
-              </div>
-            </div>
-            <!-- Carousel nav -->
-            <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-            <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-          </div>
-        </div>
-      </div>
-    </div>
 
 
   </div>

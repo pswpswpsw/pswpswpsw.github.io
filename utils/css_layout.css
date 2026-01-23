@@ -46,19 +46,19 @@
     text-align: center;
   }
   #sidebar div.info > .name{
-      font-family: "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Orbitron", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: bold;
       font-style: italic;
   }
   #sidebar div.info > .name_chinese{
-      font-family: Helvetica, Arial, sans-serif;
+      font-family: "Orbitron", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: bold;
   }
   #sidebar div.info > .email{
       font-size: 14px;
-      font-family: "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Inter", "Lato", Helvetica, Arial, sans-serif;
       font-style: italic;
       font-weight: 400;
   }
@@ -81,6 +81,7 @@
     cursor: pointer;
     padding: 10px 30px;
     background: #0765A0;
+    font-family: "Orbitron", sans-serif;
   }
   #navigation > a.nav_item:hover{
     background: #3D7EB0;
@@ -110,7 +111,7 @@
   #main > div.content{
     padding: 10px 50px;
     line-height: 25px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Inter', 'Lato', sans-serif;
     font-weight: 450;
     font-size: 16px;
   }
@@ -122,6 +123,7 @@
     margin-bottom:10px;
     font-size:2em;
     font-weight:bold;
+    font-family: "Orbitron", sans-serif;
   }
 
   #main > div.subtitle
@@ -131,6 +133,7 @@
     margin-bottom: 5px;
     font-size: 1.2em;
     font-weight: 600;
+    font-family: "Orbitron", sans-serif;
   }
   #main div.linebreak{
     padding: 5px;
