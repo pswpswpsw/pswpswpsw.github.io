@@ -196,6 +196,15 @@
     width: 100%;
     height: auto;
     left: 0;
+    padding-bottom: 20px;
+  }
+
+  /* Sidebar profile image: Slightly smaller on mobile */
+  #sidebar > img.me {
+    max-height: 150px;
+    max-width: 150px;
+    margin: 15px auto;
+    display: block;
   }
 
   /* Main content: Full width, no left offset */
@@ -206,15 +215,21 @@
     width: 100%;
   }
 
-  /* Logo: Reduce size */
+  /* Logo: Move to relative positioning, don't overlap */
   #logo {
-    max-height: 40px;
-    right: 20px;
+    position: relative;
+    max-height: 50px;
+    right: auto;
+    top: auto;
+    margin: 10px auto;
+    display: block;
   }
 
   /* Content: Reduce padding */
   #main > div.content {
     padding: 10px 20px;
+    font-size: 15px;
+    line-height: 24px;
   }
 
   #main > div.title {
@@ -225,15 +240,25 @@
 
   #main > div.subtitle {
     margin: 0 20px;
+    font-size: 1.1em;
   }
 
-  /* Two-column layouts: Stack vertically */
+  /* Two-column layouts: Stack vertically - ALL span sizes */
+  .row-fluid .span1,
+  .row-fluid .span2,
+  .row-fluid .span3,
+  .row-fluid .span4,
+  .row-fluid .span5,
+  .row-fluid .span6,
+  .row-fluid .span7,
   .row-fluid .span8,
   .row-fluid .span9,
-  .row-fluid .span4,
-  .row-fluid .span3 {
+  .row-fluid .span10,
+  .row-fluid .span11,
+  .row-fluid .span12 {
     width: 100% !important;
     margin-left: 0 !important;
+    float: none !important;
   }
 
   /* Carousels: Full width */
@@ -243,9 +268,26 @@
 
   /* Publications: Adjust image block */
   div.publications div.imgblock {
-    float: none;
+    float: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 0 15px 0 !important;
+    text-align: center;
+  }
+
+  div.publications div.imgblock img {
     max-width: 100%;
-    margin: 0 auto 20px;
+    height: auto;
+  }
+
+  /* News/content lists: Better spacing */
+  div.content ul,
+  div.content ol {
+    padding-left: 20px;
+  }
+
+  div.content li {
+    line-height: 26px;
   }
 }
 
@@ -263,12 +305,25 @@
     margin: 0 15px;
   }
 
+  #main > div.subtitle {
+    font-size: 1em;
+    margin: 0 15px;
+  }
+
   /* Sidebar info: Smaller text */
   #sidebar div.info > .name {
     font-size: 16px;
   }
 
+  #sidebar div.info > .name_chinese {
+    font-size: 16px;
+  }
+
   #sidebar div.info > .email {
+    font-size: 12px;
+  }
+
+  #sidebar div.info > .link {
     font-size: 12px;
   }
 
@@ -278,9 +333,21 @@
     font-size: 14px;
   }
 
-  /* Logo: Hide on very small screens or make smaller */
+  /* Logo: Smaller on very small screens */
   #logo {
-    max-height: 30px;
-    right: 10px;
+    max-height: 40px;
+    margin: 10px auto;
+  }
+
+  /* Profile image: Even smaller on tiny screens */
+  #sidebar > img.me {
+    max-height: 120px;
+    max-width: 120px;
+    margin: 10px auto;
+  }
+
+  /* Content lists: Tighter spacing */
+  div.content li {
+    line-height: 24px;
   }
 }
