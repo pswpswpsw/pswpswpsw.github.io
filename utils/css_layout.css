@@ -139,7 +139,7 @@
     line-height: 25px;
     font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 17px;
   }
 
   #main > div.title{
@@ -149,7 +149,7 @@
     margin-bottom:10px;
     font-size:2em;
     font-weight: 700;
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
   }
 
   #main > div.subtitle
@@ -159,7 +159,7 @@
     margin-bottom: 5px;
     font-size: 1.2em;
     font-weight: 700;
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
   }
   #main div.linebreak{
     padding: 5px;
