@@ -85,6 +85,39 @@
       font-style: italic;
       font-weight: 400;
   }
+
+  /* Secondary info (institution, office) - softer styling */
+  #sidebar div.info > .secondary {
+      font-size: 13px;
+      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
+      color: rgba(255, 255, 255, 0.7);
+      font-weight: 400;
+      margin-top: 2px;
+  }
+
+  /* Social links container */
+  #sidebar div.info .social-links {
+      font-size: 13px;
+      font-weight: 400;
+      margin-top: 8px;
+  }
+  #sidebar div.info .social-links a {
+      color: white;
+      text-decoration: none;
+  }
+  #sidebar div.info .social-links a:hover {
+      text-decoration: underline;
+  }
+  #sidebar div.info .social-links .highlight-link {
+      color: #FFD700;
+      font-weight: 600;
+      font-size: 14px;
+  }
+  #sidebar div.info .social-links .link-divider {
+      color: rgba(255, 255, 255, 0.5);
+      margin: 0 6px;
+  }
+
   #sidebar div.info > .link{
     font-size: 14px;
     font-weight: 400;
@@ -112,6 +145,13 @@
   #navigation > a.nav_item:hover{
     background: #3D7EB0;
   }
+  /* Active state for current page */
+  #navigation > a.nav_item.active,
+  #navigation > a.nav_item:focus {
+    background: #3D7EB0;
+    border-left: 4px solid #FFD700;
+    padding-left: 26px;
+  }
 
 
   /*----------------------------*/
@@ -136,10 +176,11 @@
 
   #main > div.content{
     padding: 10px 50px;
-    line-height: 25px;
+    line-height: 1.7;
     font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 18px;
+    max-width: 900px;
   }
 
   #main > div.title{
