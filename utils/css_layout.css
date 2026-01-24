@@ -183,3 +183,104 @@
     background-color: #FFCB05; /* Michigan yellow */
     color: #00274C; /* Michigan blue text for contrast */
 }
+
+/* ============================================
+   RESPONSIVE DESIGN - MOBILE & TABLET
+   ============================================ */
+
+/* Tablets and smaller (< 768px) */
+@media (max-width: 768px) {
+  /* Sidebar: Stack on top instead of fixed left */
+  #sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    left: 0;
+  }
+
+  /* Main content: Full width, no left offset */
+  #main {
+    position: relative;
+    left: 0;
+    min-width: 0;
+    width: 100%;
+  }
+
+  /* Logo: Reduce size */
+  #logo {
+    max-height: 40px;
+    right: 20px;
+  }
+
+  /* Content: Reduce padding */
+  #main > div.content {
+    padding: 10px 20px;
+  }
+
+  #main > div.title {
+    margin: 0 20px;
+    padding: 15px 0;
+    font-size: 1.5em;
+  }
+
+  #main > div.subtitle {
+    margin: 0 20px;
+  }
+
+  /* Two-column layouts: Stack vertically */
+  .row-fluid .span8,
+  .row-fluid .span9,
+  .row-fluid .span4,
+  .row-fluid .span3 {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+
+  /* Carousels: Full width */
+  .carousel {
+    width: 100% !important;
+  }
+
+  /* Publications: Adjust image block */
+  div.publications div.imgblock {
+    float: none;
+    max-width: 100%;
+    margin: 0 auto 20px;
+  }
+}
+
+/* Small phones (< 480px) */
+@media (max-width: 480px) {
+  /* Further reduce font sizes */
+  #main > div.content {
+    font-size: 14px;
+    line-height: 22px;
+    padding: 10px 15px;
+  }
+
+  #main > div.title {
+    font-size: 1.3em;
+    margin: 0 15px;
+  }
+
+  /* Sidebar info: Smaller text */
+  #sidebar div.info > .name {
+    font-size: 16px;
+  }
+
+  #sidebar div.info > .email {
+    font-size: 12px;
+  }
+
+  /* Navigation: Better touch targets */
+  #navigation > a.nav_item {
+    padding: 15px 20px;
+    font-size: 14px;
+  }
+
+  /* Logo: Hide on very small screens or make smaller */
+  #logo {
+    max-height: 30px;
+    right: 10px;
+  }
+}
