@@ -47,6 +47,7 @@ Generated from conversation analysis on: 2026-01-21
 - **Advice/Details Lists**: For nested lists with `<details>` and `<summary>` (as seen in `letter.html`), use the `.advice-list` class. 
     - `li` elements have `margin-left: 25px`.
     - `summary` elements have `font-weight: 500`.
+    - `summary` elements have `color: #000;` (Pure Black).
 - **Summary Styling**: Do not put block-level tags like `<h1>` inside `<summary>`; style the `<summary>` directly in CSS to avoid unwanted newlines after bullets.
 
 ### Component Specifics
