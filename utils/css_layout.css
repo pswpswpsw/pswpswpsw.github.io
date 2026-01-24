@@ -12,7 +12,7 @@
 @font-face {
   font-family: 'Avenir';
   src: url('fonts/Avenir-Heavy.woff2') format('woff2');
-  font-weight: 700;
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
@@ -151,8 +151,8 @@
     padding: 12px 30px; /* Increased padding slightly */
     background: rgba(0, 0, 0, 0.2); /* Subtle dark overlay for inactive */
     font-family: "Avenir", sans-serif;
-    font-size: 16px; /* Explicit font size */
-    font-weight: 600; /* slightly bolder for readability */
+    font-size: 18px; /* Explicit font size */
+    font-weight: 400; /* slightly bolder for readability */
     letter-spacing: 0px; /* Slight spacing for readability */
   }
   #navigation > a.nav_item:hover{
@@ -208,7 +208,7 @@
     margin-bottom: 5px; /* Reduced from 10px */
     font-size:2.25em;
     font-weight: 400;
-    letter-spacing: -1px;
+    letter-spacing: 0.5px;
     font-family: "Avenir", Helvetica, Arial, sans-serif;
     color: #333333; /* Title: Dark Gray */
   }
@@ -266,7 +266,7 @@
   }
   /* Only indent bulleted or numbered lists */
   #main > div.content ul { list-style-type: disc; margin-left: 1.5em; }
-  #main > div.content ol { list-style-type: decimal; margin-left: 0em; }
+  #main > div.content ol { list-style-type: none; margin-left: 0em; }
   /* Specifically handle lists where you turned off bullets */
   #main > div.content ul[style*="list-style-type: none"],
   #main > div.content ol[style*="list-style-type: none"] {
@@ -530,7 +530,7 @@ div.github_outside {
 
 .advice-list li {
   margin-bottom: 20px;
-  margin-left: 25px;
+  margin-left: 0px;
 }
 
 .advice-list summary {

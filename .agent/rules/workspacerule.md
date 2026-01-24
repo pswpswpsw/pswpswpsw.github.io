@@ -35,14 +35,14 @@ Generated from conversation analysis on: 2026-01-21
 
 ### Typography
 - **Bold Text**: Use `font-weight: 500` for bold text in components like Advice summaries. The main content area generally uses standard weights but can be overridden as needed.
-- **Navigation (Sidebar)**: Menu items (`.nav_item`) use `font-weight: 600` and `letter-spacing: 0px`.
+- **Navigation (Sidebar)**: Menu items (`.nav_item`) use `font-weight: 400` and `font-size: 18px`.
 - **Publications**: Author names in publication lists should not be italicized.
 
 ### List Styling & Alignment
 - **Positioning**: Use `list-style-position: outside` for all standard lists to ensure bullets don't wrap strangely with block content.
 - **Indentation (Main Content)**: 
     - Bulleted lists (`ul`): `margin-left: 1.5em`.
-    - Ordered lists (`ol`): `margin-left: 0em` (specifically for publications and numbered lists).
+    - Ordered lists (`ol`): `margin-left: 0em` (specifically for publications and numbered lists, where markers are hidden).
     - Lists with hidden markers (e.g., `list-style-type: none`): `margin-left: 0`.
 - **Advice/Details Lists**: For nested lists with `<details>` and `<summary>` (as seen in `letter.html`), use the `.advice-list` class. 
     - `li` elements have `margin-left: 25px`.
