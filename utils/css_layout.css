@@ -1,6 +1,29 @@
 @charset "utf-8";
 
-/* Baskervville Font - loaded from Google Fonts */
+/* Avenir Font - Self-hosted */
+@font-face {
+  font-family: 'Avenir';
+  src: url('fonts/Avenir-Roman.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('fonts/Avenir-Heavy.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('fonts/Avenir-Oblique.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
 
     /*
         utils css
@@ -46,19 +69,19 @@
     text-align: center;
   }
   #sidebar div.info > .name{
-      font-family: "Baskervville", "Lato", Georgia, serif;
+      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: 700;
       /* font-style: italic; Removed italics as requested */
   }
   #sidebar div.info > .name_chinese{
-      font-family: "Baskervville", Georgia, serif;
+      font-family: "Avenir", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: 700;
   }
   #sidebar div.info > .email{
       font-size: 14px;
-      font-family: "Baskervville", "Lato", Georgia, serif;
+      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
       font-style: italic;
       font-weight: 400;
   }
@@ -81,10 +104,10 @@
     cursor: pointer;
     padding: 12px 30px; /* Increased padding slightly */
     background: #0765A0;
-    font-family: "Baskervville", serif;
+    font-family: "Avenir", sans-serif;
     font-size: 15px; /* Explicit font size */
     font-weight: 400; /* slightly bolder for readability */
-    letter-spacing: 0.5px; /* Slight spacing for serif fonts */
+    letter-spacing: 0.5px; /* Slight spacing for readability */
   }
   #navigation > a.nav_item:hover{
     background: #3D7EB0;
@@ -114,7 +137,7 @@
   #main > div.content{
     padding: 10px 50px;
     line-height: 25px;
-    font-family: "Baskervville", 'Lato', Georgia, serif;
+    font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 16px;
   }
@@ -126,7 +149,7 @@
     margin-bottom:10px;
     font-size:2em;
     font-weight: 700;
-    font-family: "Baskervville", Georgia, serif;
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
   }
 
   #main > div.subtitle
@@ -136,7 +159,7 @@
     margin-bottom: 5px;
     font-size: 1.2em;
     font-weight: 700;
-    font-family: "Baskervville", Georgia, serif;
+    font-family: "Avenir", Helvetica, Arial, sans-serif;
   }
   #main div.linebreak{
     padding: 5px;
