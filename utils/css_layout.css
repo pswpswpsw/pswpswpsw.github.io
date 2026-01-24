@@ -256,11 +256,21 @@
   }
 
   #main > div.content p,
+
+
   #main > div.content ul,
   #main > div.content ol {
     margin: 20px 0;
-    margin-left: 0em; /* Preserve margin for bullets */
+    margin-left: 0; /* Default to edge */
     padding-left: 0;
+  }
+  /* Only indent bulleted or numbered lists */
+  #main > div.content ul { list-style-type: disc; margin-left: 1.5em; }
+  #main > div.content ol { list-style-type: decimal; margin-left: 0em; }
+  /* Specifically handle lists where you turned off bullets */
+  #main > div.content ul[style*="list-style-type: none"],
+  #main > div.content ol[style*="list-style-type: none"] {
+     margin-left: 0;
   }
 
   #main > div.content h1 {
