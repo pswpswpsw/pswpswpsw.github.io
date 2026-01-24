@@ -31,22 +31,27 @@
 
 
     body {
-        background-color: #FAFAFA; /* Off-White Background */
-        color: #34495E; /* Dark Gray Text */
+        background-color: #FFFFFF; /* Global Background: Pure White */
+        color: #000000; /* Global Text: Black */
     }
     body a{
         text-decoration:none;
     }
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 400;
+        letter-spacing: -1px;
+    }
     div.content ul{
         list-style: disc inside none;
-        list-style-position: outside;
+        list-style-position: inside; /* Bullets inside text block */
         margin-left: 1em;
+        padding-left: 0;
     }
     div.content ol{
         list-style: none inside none;
     }
     div.content li{
-        line-height:30px;
+        line-height: 1.7;
     }
     div.content div.float-right{
         float:right;
@@ -75,7 +80,8 @@
   #sidebar div.info > .name{
       font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
-      font-weight: 700;
+      font-weight: 400; /* Un-bolded */
+      letter-spacing: 0.5px; /* Slight spacing for readability on dark bg */
       color: white; /* Standard white on dark blue */
       /* font-style: italic; Removed italics as requested */
   }
@@ -87,16 +93,19 @@
   #sidebar div.info > .email{
       font-size: 14px;
       font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
-      font-style: italic;
       font-weight: 400;
+      letter-spacing: 0; /* Reset spacing for small text */
   }
 
   /* Secondary info (institution, office) - softer styling */
   #sidebar div.info > .secondary {
       font-size: 14px;
       font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
-      color: rgba(255, 255, 255, 0.7);
+      font-size: 14px;
+      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
+      color: white; /* Solid white for better visibility */
       font-weight: 400;
+      letter-spacing: 0; /* Reset spacing */
       margin-top: 2px;
   }
 
@@ -171,7 +180,7 @@
     bottom: 0;
     overflow: auto;
     min-width: 500px;
-    background-color: #FAFAFA; /* Main Background */
+    background-color: #FFFFFF; /* Main Background: Pure White */
   }
   #logo{
     display: block;
@@ -183,23 +192,24 @@
 
 
   #main > div.content{
-    padding: 10px 50px;
+    padding: 0 50px;
     line-height: 1.7;
     font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
     font-weight: 400;
-    font-size: 18px;
-    color: #34495E; /* Text: Wet Asphalt */
+    font-size: 20px;
+    color: #000000; /* Text: Black */
   }
 
   #main > div.title{
     padding:20px 0;
     margin: 0 50px;
-    border-bottom:1px silver solid;
-    margin-bottom:10px;
+    border-bottom:1px solid #E8E8E8; /* Divider: Lighter Gray */
+    margin-bottom: 5px; /* Reduced from 10px */
     font-size:2em;
-    font-weight: 700;
+    font-weight: 400;
+    letter-spacing: -1px;
     font-family: "Avenir", Helvetica, Arial, sans-serif;
-    color: #111111; /* Title: Near Black */
+    color: #333333; /* Title: Dark Gray */
   }
 
   #main > div.subtitle
@@ -208,19 +218,77 @@
     margin: 0 50px;
     margin-bottom: 5px;
     font-size: 1.2em;
-    font-weight: 700;
+    font-weight: 400;
+    letter-spacing: -1px;
     font-family: "Avenir", Helvetica, Arial, sans-serif;
+  }
+  #main > div.title b,
+  #main > div.title strong,
+  #main a.title_link b,
+  #main a.title_link strong {
+    font-weight: 400;
   }
   #main div.linebreak{
     padding: 5px;
   }
   #main a.title_link{
-    color: #111111; /* Link: Near Black */
+    color: #333333; /* Link: Dark Gray */
     text-decoration: inherit; /* no underline */
     outline: none;
   }
   #main div.content a {
-    color: #2980B9; /* Link: Steel Blue */
+    color: #2878E0; /* Link: Pixel Sampled Blue */
+    text-decoration: none;
+  }
+  #main div.content a:visited {
+    color: #205caa; /* Visited Link */
+  }
+  #main div.content a:hover {
+    color: #000000; /* Hover: Black */
+    text-decoration: underline;
+  }
+  
+  /* Vertical Rhythm - Spacing */
+  /* Reduce top margin for the very first element to verify tight spacing */
+  #main > div.content > :first-child {
+      margin-top: 5px !important;
+  }
+
+  #main > div.content p,
+  #main > div.content ul,
+  #main > div.content ol {
+    margin: 20px 0;
+    padding-left: 0; /* Revert padding */
+  }
+
+  #main > div.content h1 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  /* Code Blocks */
+  pre, code {
+    border: 1px solid #d5d5e9;
+    background-color: #eef;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    font-family: Consolas, "Courier New", monospace;
+  }
+  pre {
+    padding: 8px 12px;
+    overflow: auto;
+    display: block;
+  }
+  pre.terminal {
+    border: 1px solid #000;
+    background-color: #333;
+    color: #FFF;
+  }
+  pre.terminal code {
+    background-color: transparent;
+    color: #FFF;
+    border: none;
   }
   img.press{
     height:20px;
@@ -230,8 +298,9 @@
     padding-bottom: 30px;
   }
   div.publications > ol > li > span.title{
-    font-weight: 700;
+    font-weight: 400;
     font-size:1.2em;
+    letter-spacing: -1px;
   }
   div.publications > ol > li > div.info{
     padding-left:20px;
@@ -311,7 +380,7 @@
   #main > div.content {
     padding: 10px 20px;
     font-size: 15px;
-    line-height: 24px;
+    line-height: 1.7;
   }
 
   #main > div.title {
@@ -369,7 +438,7 @@
   }
 
   div.content li {
-    line-height: 26px;
+    line-height: 1.7;
   }
 }
 
@@ -378,7 +447,7 @@
   /* Further reduce font sizes */
   #main > div.content {
     font-size: 14px;
-    line-height: 22px;
+    line-height: 1.7;
     padding: 10px 15px;
   }
 
@@ -430,6 +499,6 @@
 
   /* Content lists: Tighter spacing */
   div.content li {
-    line-height: 24px;
+    line-height: 1.7;
   }
 }
