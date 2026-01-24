@@ -30,6 +30,10 @@
     */
 
 
+    body {
+        background-color: #FAFAFA; /* Off-White Background */
+        color: #34495E; /* Dark Gray Text */
+    }
     body a{
         text-decoration:none;
     }
@@ -54,7 +58,7 @@
         top: 0;
         left: 0;
         overflow: auto;
-        background: #00274C;
+        background: #00274C; /* Sidebar: Michigan Blue */
         width:250px;
         height: 100%;
     }
@@ -72,6 +76,7 @@
       font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: 700;
+      color: white; /* Standard white on dark blue */
       /* font-style: italic; Removed italics as requested */
   }
   #sidebar div.info > .name_chinese{
@@ -109,7 +114,7 @@
       text-decoration: underline;
   }
   #sidebar div.info .social-links .highlight-link {
-      color: #FFD700;
+      color: #FFCB05; /* Accent: Michigan Maize */
       font-weight: 600;
       font-size: 14px;
   }
@@ -136,20 +141,22 @@
     color: white;
     cursor: pointer;
     padding: 12px 30px; /* Increased padding slightly */
-    background: #0765A0;
+    background: rgba(0, 0, 0, 0.2); /* Subtle dark overlay for inactive */
     font-family: "Avenir", sans-serif;
     font-size: 16px; /* Explicit font size */
     font-weight: 400; /* slightly bolder for readability */
     letter-spacing: 0.5px; /* Slight spacing for readability */
   }
   #navigation > a.nav_item:hover{
-    background: #3D7EB0;
+    background: #FFCB05; /* Maize on hover */
+    color: #00274C; /* Blue text on Maize bg for contrast */
   }
   /* Active state for current page */
   #navigation > a.nav_item.active,
   #navigation > a.nav_item:focus {
-    background: #3D7EB0;
-    border-left: 4px solid #FFD700;
+    background: #FFCB05; /* Maize */
+    color: #00274C; /* Blue text */
+    border-left: 4px solid #F9F8F4; /* Match Main BG */
     padding-left: 26px;
   }
 
@@ -163,7 +170,8 @@
     right: 0;  /* right and bottom property is crucial */
     bottom: 0;
     overflow: auto;
-        min-width: 500px;
+    min-width: 500px;
+    background-color: #FAFAFA; /* Main Background */
   }
   #logo{
     display: block;
@@ -180,6 +188,7 @@
     font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 18px;
+    color: #34495E; /* Text: Wet Asphalt */
   }
 
   #main > div.title{
@@ -190,6 +199,7 @@
     font-size:2em;
     font-weight: 700;
     font-family: "Avenir", Helvetica, Arial, sans-serif;
+    color: #111111; /* Title: Near Black */
   }
 
   #main > div.subtitle
@@ -205,9 +215,12 @@
     padding: 5px;
   }
   #main a.title_link{
-    color: inherit; /* blue colors for links too */
+    color: #111111; /* Link: Near Black */
     text-decoration: inherit; /* no underline */
     outline: none;
+  }
+  #main div.content a {
+    color: #2980B9; /* Link: Steel Blue */
   }
   img.press{
     height:20px;
