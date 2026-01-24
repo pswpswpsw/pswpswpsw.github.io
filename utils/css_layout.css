@@ -31,7 +31,7 @@
 
 
     body {
-        background-color: #FFFFFF; /* Global Background: Pure White */
+        background-color: #fdfdfd; /* Global Background: Pure White */
         color: #000000; /* Global Text: Black */
     }
     body a{
@@ -63,7 +63,7 @@
         top: 0;
         left: 0;
         overflow: auto;
-        background: #00274C; /* Sidebar: Michigan Blue */
+        background: #1e4d76; /* Sidebar: Michigan Blue */
         width:250px;
         height: 100%;
     }
@@ -71,7 +71,7 @@
         max-height:180px;
         max-width:180px;
         margin:20px 35px;
-        border-radius: 50%;
+        border-radius: 10%;
     }
   #sidebar div.info{
     color: white;
@@ -123,8 +123,8 @@
       text-decoration: underline;
   }
   #sidebar div.info .social-links .highlight-link {
-      color: #FFCB05; /* Accent: Michigan Maize */
-      font-weight: 600;
+      color: white; /* Accent: Michigan Maize */
+      font-weight: 400;
       font-size: 14px;
   }
   #sidebar div.info .social-links .link-divider {
@@ -201,11 +201,11 @@
   }
 
   #main > div.title{
-    padding:20px 0;
+    padding:20px 0px;
     margin: 0 50px;
     border-bottom:1px solid #E8E8E8; /* Divider: Lighter Gray */
     margin-bottom: 5px; /* Reduced from 10px */
-    font-size:2em;
+    font-size:2.25em;
     font-weight: 400;
     letter-spacing: -1px;
     font-family: "Avenir", Helvetica, Arial, sans-serif;
