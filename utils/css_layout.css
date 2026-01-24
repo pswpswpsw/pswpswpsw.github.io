@@ -247,6 +247,12 @@
     color: #00274C; /* Michigan blue text for contrast */
 }
 
+/* Increase journal name label font size */
+.label.label-info {
+    font-size: 14px;
+    padding: 4px 8px;
+}
+
 /* ============================================
    RESPONSIVE DESIGN - MOBILE & TABLET
    ============================================ */
