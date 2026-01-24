@@ -44,7 +44,7 @@
     div.content ul{
         list-style: disc outside none;
         margin-left: 2em;
-        padding-left: 0;
+        padding-left: 0px;
     }
     div.content ol{
         list-style: none inside none;
@@ -259,7 +259,8 @@
   #main > div.content ul,
   #main > div.content ol {
     margin: 20px 0;
-    padding-left: 0; /* Revert padding */
+    margin-left: 0em; /* Preserve margin for bullets */
+    padding-left: 0;
   }
 
   #main > div.content h1 {
@@ -433,7 +434,6 @@
   }
 
   /* News/content lists: Better spacing */
-  div.content ul,
   div.content ol {
     padding-left: 20px;
   }
