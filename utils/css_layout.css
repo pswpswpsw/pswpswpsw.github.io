@@ -88,7 +88,7 @@
 
   /* Secondary info (institution, office) - softer styling */
   #sidebar div.info > .secondary {
-      font-size: 13px;
+      font-size: 14px;
       font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
       color: rgba(255, 255, 255, 0.7);
       font-weight: 400;
