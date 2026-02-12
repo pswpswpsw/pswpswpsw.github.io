@@ -190,7 +190,7 @@
   }
 
 
-  #main > div.content{
+  #main div.content{
     padding: 0 50px;
     line-height: 1.7;
     font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
@@ -199,9 +199,21 @@
     color: #000000; /* Text: Black */
   }
 
+  /* Nested layout overrides for 2-column sections */
+  #main .row-fluid div.content {
+      padding: 0; /* Align with parent container */
+      margin: 10px 0;
+  }
+  #main .row-fluid div.title {
+      margin-left: 0; /* Align with parent container */
+      margin-top: 0;
+      padding: 10px 0;
+      font-size: 1.8em !important; 
+  }
+
   /* Change weight of bold text in the main content area */
 
-  #main > div.title{
+  #main div.title{
     padding:20px 0px;
     margin: 30px 0px 0px 50px;
     border-bottom:0px solid #E8E8E8; /* Divider: Lighter Gray */
