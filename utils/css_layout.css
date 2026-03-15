@@ -1,29 +1,6 @@
 @charset "utf-8";
 
-/* Avenir Font - Self-hosted */
-@font-face {
-  font-family: 'Avenir';
-  src: url('fonts/Avenir-Roman.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir';
-  src: url('fonts/Avenir-Heavy.woff2') format('woff2');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir';
-  src: url('fonts/Avenir-Oblique.woff2') format('woff2');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
+/* Typography uses hosted Playfair Display + Lato from HTML links. */
 
     /*
         utils css
@@ -77,7 +54,7 @@
     text-align: center;
   }
   #sidebar div.info > .name{
-      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: 400; /* Un-bolded */
       letter-spacing: 0.5px; /* Slight spacing for readability on dark bg */
@@ -85,13 +62,13 @@
       /* font-style: italic; Removed italics as requested */
   }
   #sidebar div.info > .name_chinese{
-      font-family: "Avenir", Helvetica, Arial, sans-serif;
+      font-family: "Playfair Display", Helvetica, Arial, sans-serif;
       font-size: 18px;
       font-weight: 700;
   }
   #sidebar div.info > .email{
       font-size: 14px;
-      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
       font-weight: 400;
       letter-spacing: 0; /* Reset spacing for small text */
   }
@@ -99,9 +76,9 @@
   /* Secondary info (institution, office) - softer styling */
   #sidebar div.info > .secondary {
       font-size: 14px;
-      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
       font-size: 14px;
-      font-family: "Avenir", "Lato", Helvetica, Arial, sans-serif;
+      font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
       color: white; /* Solid white for better visibility */
       font-weight: 400;
       letter-spacing: 0; /* Reset spacing */
@@ -150,7 +127,7 @@
     cursor: pointer;
     padding: 12px 30px; /* Increased padding slightly */
     background: rgba(0, 0, 0, 0.2); /* Subtle dark overlay for inactive */
-    font-family: "Avenir", sans-serif;
+    font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
     font-size: 18px; /* Explicit font size */
     font-weight: 400; /* slightly bolder for readability */
     letter-spacing: 0px; /* Slight spacing for readability */
@@ -193,7 +170,7 @@
   #main div.content{
     padding: 0 50px;
     line-height: 1.7;
-    font-family: "Avenir", 'Lato', Helvetica, Arial, sans-serif;
+    font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 20px;
     color: #000000; /* Text: Black */
@@ -221,7 +198,7 @@
     font-size:2.5em;
     font-weight: 400;
     letter-spacing: 0.5px;
-    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
     color: #000000; /* Title: Pure Black */
   }
 
@@ -233,7 +210,7 @@
     font-size: 1.2em;
     font-weight: 400;
     letter-spacing: -1px;
-    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
   }
   #main > div.title b,
   #main > div.title strong,
@@ -528,8 +505,8 @@
 
 /* Increased font size for embedded content (GitHub READMEs) */
 div.github_outside {
-  font-family: 'Avenir','Lato', sans-serif;
-  font-weight: 450;
+  font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 400;
   font-size: 1em;
   line-height: 1.7;
   margin-top: 15px;
@@ -546,7 +523,7 @@ div.github_outside {
 }
 
 .advice-list summary {
-  font-family: 'Avenir','Lato', sans-serif;
+  font-family: "Playfair Display", "Lato", Helvetica, Arial, sans-serif;
   font-size: 1em;
   font-weight: 500;
   cursor: pointer;
