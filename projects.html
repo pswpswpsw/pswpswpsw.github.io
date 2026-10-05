@@ -88,6 +88,9 @@
       <a class="nav_item" href="./letter.html">
         <i class="icon icon-pencil icon-white"></i> &nbsp; Unsolicited Advice
       </a>
+      <a class="nav_item" href="./feedback.html">
+        <i class="icon icon-comment icon-white"></i> &nbsp; Feedback
+      </a>
 
     </div>
   </div>
@@ -700,6 +703,31 @@
           <div class="info">National Science Foundation – Panelist (2024)</div>
         </li> -->
   </div>
+
+  <!-- Per-paper anonymous feedback links (prefill the paper title on feedback.html) -->
+  <script>
+    (function () {
+      var items = document.querySelectorAll('div.publications > ol > li');
+      Array.prototype.forEach.call(items, function (li) {
+        var titleEl = li.querySelector('span.title');
+        if (!titleEl) return;
+        var title = titleEl.textContent.replace(/\s+/g, ' ').trim();
+        var link = document.createElement('a');
+        link.className = 'paper-feedback-link';
+        link.href = 'feedback.html?paper=' + encodeURIComponent(title);
+        link.textContent = '[Feedback]';
+        var stuff = li.querySelector('div.stuff');
+        if (!stuff) {
+          stuff = document.createElement('div');
+          stuff.className = 'stuff';
+          var clear = li.querySelector('div[style*="clear"]');
+          if (clear) { li.insertBefore(stuff, clear); } else { li.appendChild(stuff); }
+        }
+        stuff.appendChild(document.createTextNode(' '));
+        stuff.appendChild(link);
+      });
+    })();
+  </script>
 
 </body>
 

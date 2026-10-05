@@ -1,0 +1,216 @@
+<html lang="en">
+<head>
+  <meta  http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" href="utils/bootstrap.min.css"/>
+  <script language="javascript" src="utils/jquery.min.js"></script>
+  <script language="javascript" src="utils/bootstrap.min.js"></script>
+  <!-- -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lato-font/3.0.0/css/lato-font.min.css"/>
+  <!-- Typography uses hosted Lato -->
+  <link rel="stylesheet" type="text/css" href="utils/cssReset.css"/>
+  <link rel="stylesheet" type="text/css" href="utils/css_layout.css"/>
+  <title>Shaowu Pan | Anonymous Feedback</title>
+  <!-- Deliberately no Google Analytics on this page: the feedback form should not be tracked. -->
+  <meta name="description" content="Anonymous feedback on the research of Shaowu Pan, Computational Scientific Machine Learning Lab, Rensselaer Polytechnic Institute.">
+  <meta name="robots" content="noindex">
+</head>
+<body>
+  <div id="sidebar">
+    <img class='me' src="resources/shaowupan.jpg" alt="Shaowu Pan profile photo">
+    <br />
+    <div class="info">
+      <h2 class="name">Shaowu Pan</h2>
+      <h2 class="email">pans2@rpi.edu</h2>
+      <!-- Secondary info with softer styling -->
+      <h2 class="secondary">Rensselaer Polytechnic Institute</h2>
+      <h2 class="secondary">Office: JEC-2032</h2>
+
+      <!-- Social links - cleaned up, no brackets -->
+      <div class="social-links">
+        <a href="https://scholar.google.com/citations?user=VOv3F18AAAAJ&hl=en" class="highlight-link">Google Scholar</a>
+      </div>
+      <div class="social-links">
+        <a href="https://www.researchgate.net/profile/Shaowu-Pan?ev=hdr_xprf">ResearchGate</a>
+        <span class="link-divider">·</span>
+        <a href="https://github.com/pswpswpsw">GitHub</a>
+        <span class="link-divider">·</span>
+        <a href="https://www.linkedin.com/in/shaowupan/">LinkedIn</a>
+      </div>
+      <div class="social-links">
+        <a href="https://www.youtube.com/@shaowupan8667">YouTube</a>
+        <span class="link-divider">·</span>
+        <a href="https://x.com/ShaowuP">Twitter/X</a>
+        <span class="link-divider">·</span>
+        <a href="https://www.zhihu.com/people/niu-bi-li-si-shan">Zhihu</a>
+      </div>
+
+    </div>
+    <div id="navigation">
+      <a class="nav_item" href="./index.html">
+        <i class="icon icon-home icon-white"></i> &nbsp; About
+      </a>
+      <a class="nav_item" href="./projects.html#publications">
+        <i class="icon icon-th-large icon-white"></i> &nbsp; Publications
+      </a>
+      <a class="nav_item" href="./members.html#members">
+        <i class="icon icon-user icon-white"></i> &nbsp; Members
+      </a>
+      <a class="nav_item" href="./teaching.html#teaching">
+        <i class="icon icon-book icon-white"></i> &nbsp; Teaching
+      </a>
+      <a class="nav_item" href="./outreach.html#outreach">
+        <i class="icon icon-globe icon-white"></i> &nbsp; Outreach
+      </a>
+      <a class="nav_item" href="./index.html#awards">
+        <i class="icon icon-bookmark icon-white"></i> &nbsp; Honors / Awards
+      </a>
+      <a class="nav_item" href="./letter.html">
+        <i class="icon icon-pencil icon-white"></i> &nbsp; Unsolicited Advice
+      </a>
+      <a class="nav_item" href="./feedback.html">
+        <i class="icon icon-comment icon-white"></i> &nbsp; Feedback
+      </a>
+
+    </div>
+  </div>
+
+  <div id="main">
+    <div class="title">
+      <a class="title_link" id="feedback" href="#feedback">Anonymous Feedback</a>
+    </div>
+
+    <div class="content">
+      <div class="feedback-privacy">
+        <b>How anonymity works here.</b>
+        This page has no analytics. The form sends your text to a small script that stores only
+        what you write and the <i>date</i> (not the time). The script does not read or store your
+        IP address, browser information, or e-mail. The request does pass through Google's servers,
+        as with any Google-hosted service. The
+        <a href="https://github.com/pswpswpsw/pswpswpsw.github.io/blob/master/feedback_backend/Code.gs" target="_blank">source code</a>
+        is public, so you can check this. Specific details (a particular meeting, your writing
+        style) can still identify you, so keep that in mind. Leave the contact field empty unless
+        you want a reply.
+      </div>
+
+      <form id="feedback-form" class="feedback-form" data-endpoint="https://script.google.com/macros/s/AKfycby2iQ2Fs1yBqEF6780FABTNkrdyqMbTQfnQyqDTPO1E7T6kZRXkKp9Hat6Qgv6Ulohw/exec" novalidate>
+        <label for="fb-weakest">Which of my results or claims do you find least convincing, and why?</label>
+        <textarea id="fb-weakest" name="weakest" rows="4" maxlength="5000"></textarea>
+
+        <label for="fb-methods">Any problems with methods, assumptions, or experimental setup? (For example an unfair baseline, or a claim that outruns the evidence.)</label>
+        <textarea id="fb-methods" name="methods" rows="4" maxlength="5000"></textarea>
+
+        <label for="fb-directions">What should I be working on that I am not?</label>
+        <textarea id="fb-directions" name="directions" rows="4" maxlength="5000"></textarea>
+
+        <label for="fb-paper">A specific paper (optional)</label>
+        <input type="text" id="fb-paper" name="paper" maxlength="500" placeholder="Paper title">
+        <label for="fb-paper-feedback">Your comments on that paper</label>
+        <textarea id="fb-paper-feedback" name="paper_feedback" rows="4" maxlength="5000"></textarea>
+
+        <label for="fb-overlap">Where could my group's work overlap with yours or with your field?</label>
+        <textarea id="fb-overlap" name="overlap" rows="3" maxlength="5000"></textarea>
+
+        <label for="fb-role">Your background (optional, deliberately coarse)</label>
+        <select id="fb-role" name="role">
+          <option value="">Prefer not to say</option>
+          <option value="Same field">Same field</option>
+          <option value="Adjacent field">Adjacent field</option>
+          <option value="Industry">Industry</option>
+          <option value="Student">Student</option>
+        </select>
+
+        <label for="fb-contact">Contact, only if you want a reply (optional)</label>
+        <input type="text" id="fb-contact" name="contact" maxlength="500" autocomplete="off">
+
+        <!-- Honeypot: hidden from people, bots tend to fill it in. -->
+        <div class="feedback-hp" aria-hidden="true">
+          <label for="fb-website">Leave this field empty</label>
+          <input type="text" id="fb-website" name="website" tabindex="-1" autocomplete="off">
+        </div>
+
+        <button type="submit" id="fb-submit" class="btn btn-primary">Send anonymously</button>
+        <div id="fb-status" class="feedback-status" role="status" aria-live="polite"></div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      var loadedAt = Date.now();
+      var form = document.getElementById('feedback-form');
+      var status = document.getElementById('fb-status');
+      var button = document.getElementById('fb-submit');
+
+      // Prefill the paper title from ?paper=... (links added on the publications page).
+      var paper = new URLSearchParams(window.location.search).get('paper');
+      if (paper) {
+        document.getElementById('fb-paper').value = paper;
+        document.getElementById('fb-paper-feedback').focus();
+      }
+
+      function setStatus(kind, text) {
+        status.className = 'feedback-status ' + kind;
+        status.textContent = text;
+      }
+
+      var ERRORS = {
+        empty: 'Please fill in at least one of the first five boxes.',
+        too_fast: 'That was sent too quickly. Please wait a moment and try again.',
+        rejected: 'The submission was rejected.'
+      };
+
+      form.addEventListener('submit', function (ev) {
+        ev.preventDefault();
+
+        var endpoint = form.getAttribute('data-endpoint');
+        if (!endpoint) {
+          setStatus('error', 'The feedback form is not available right now. Please try again later.');
+          return;
+        }
+
+        var data = {};
+        ['weakest', 'methods', 'directions', 'paper', 'paper_feedback', 'overlap',
+         'role', 'contact', 'website'].forEach(function (name) {
+          data[name] = form.elements[name].value;
+        });
+
+        var hasContent = ['weakest', 'methods', 'directions', 'paper_feedback', 'overlap']
+          .some(function (name) { return data[name].trim() !== ''; });
+        if (!hasContent) {
+          setStatus('error', ERRORS.empty);
+          return;
+        }
+
+        data.elapsed_ms = Date.now() - loadedAt;
+        button.disabled = true;
+        setStatus('pending', 'Sending...');
+
+        // text/plain keeps this a "simple" request, so the browser skips the CORS preflight
+        // that Apps Script web apps cannot answer.
+        fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+          body: JSON.stringify(data)
+        })
+          .then(function (r) { return r.json(); })
+          .then(function (res) {
+            if (res && res.ok) {
+              form.reset();
+              setStatus('success', 'Thank you. Your feedback was sent anonymously.');
+            } else {
+              var code = res && res.error;
+              setStatus('error', ERRORS[code] || 'Something went wrong. Please try again later.');
+              button.disabled = false;
+            }
+          })
+          .catch(function () {
+            setStatus('error', 'Could not reach the server. Please try again later.');
+            button.disabled = false;
+          });
+      });
+    })();
+  </script>
+
+</body>
+</html>
