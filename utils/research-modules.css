@@ -1,10 +1,2 @@
-#main .content .research-modules { clear: both; margin: 16px 0 8px; color: #000; font-family: "Lato", Helvetica, Arial, sans-serif; }
-#main .content .research-modules .rm-list { list-style: none; margin: 0; padding: 0; }
-#main .content .research-modules .rm-list li { margin: 0 0 4px; padding: 0; font-size: 14px; line-height: 1.5; }
-#main .content .research-modules a { color: #2878E0; text-decoration: none; }
-#main .content .research-modules a:hover { text-decoration: underline; }
-#main .content .research-modules a:focus-visible { outline: 2px solid #2878E0; outline-offset: 3px; }
-#main .content .research-modules .rm-count { color: #666; font-size: 12px; white-space: nowrap; }
-#main .content .research-modules .rm-description { margin-left: 5px; }
-#main .content .research-modules .rm-all { margin: 8px 0 0; font-size: 13px; line-height: 1.45; }
-@media (max-width: 760px) { #main .content .research-modules .rm-description { display: block; margin-left: 0; } }
+#main .research-modules a:focus-visible { outline: 2px solid #2878E0; outline-offset: 3px; }
+#main .research-modules .rm-count { white-space: nowrap; }
