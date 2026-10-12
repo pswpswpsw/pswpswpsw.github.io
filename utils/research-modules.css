@@ -1,2 +1,3 @@
 #main .research-modules a:focus-visible { outline: 2px solid #2878E0; outline-offset: 3px; }
 #main .research-modules .rm-count { white-space: nowrap; }
+#main .research-modules .rm-details { margin-top: 0; margin-bottom: 0; list-style-type: circle; }
