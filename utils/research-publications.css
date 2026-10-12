@@ -1,0 +1,24 @@
+#main .research-topic-browser nav {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 18px;
+  row-gap: 4px;
+  font-size: 0.85em;
+}
+#main .research-topic-browser a[aria-current="page"] {
+  color: inherit;
+  font-weight: bold;
+}
+#main .research-topic-browser p {
+  margin: 10px 0;
+}
+#main .research-topic-browser #research-topic-summary {
+  font-weight: bold;
+}
+#main .research-topic-browser #research-topic-description {
+  font-size: 0.9em;
+}
+#main .research-topic-browser [hidden],
+#main .publications > ol > li[hidden] {
+  display: none !important;
+}

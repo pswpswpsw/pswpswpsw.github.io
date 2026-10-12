@@ -12,6 +12,8 @@
   <!-- Typography uses hosted Lato -->
   <link rel="stylesheet" type="text/css" href="utils/cssReset.css" />
   <link rel="stylesheet" type="text/css" href="utils/css_layout.css" />
+  <link rel="stylesheet" href="utils/research-publications.css" />
+  <script src="utils/research-publications.js" defer></script>
   <title>Shaowu Pan | Publications</title>
   <!-- 搜索引擎优化stuff -->
   <meta name="description"
@@ -127,10 +129,25 @@
       <a class="title_link" id="publications" href="#publications">Refereed Publications</a>
     </div>
 
+    <!-- research-topics:start -->
+    <div class="content research-topic-browser" id="research-topic-browser">
+      <nav aria-label="Browse publications by research area">
+        <a href="projects.html#publications" data-topic="all">All publications (35)</a>
+        <a href="projects.html?topic=agents#publications" data-topic="agents" data-description="We develop and evaluate agents, tool interfaces, and adaptive workflows for scientific computation, including automated CFD workflows and benchmarks of execution and physical accuracy.">Agentic AI for Computational Science (7)</a>
+        <a href="projects.html?topic=solutions#publications" data-topic="solutions" data-description="We develop learning-based methods and datasets for scientific prediction, inverse problems, and numerical computation, spanning neural operators, physics-informed learning, dynamical prediction, and model correction.">Scientific Machine Learning (13)</a>
+        <a href="projects.html?topic=dynamics#publications" data-topic="dynamics" data-description="We study Koopman operators, invariant subspaces, time-delay embeddings, and stable learned dynamics for nonlinear-system prediction and data-driven control.">Koopman Operators &amp; Data-Driven Control (6)</a>
+        <a href="projects.html?topic=reconstruction#publications" data-topic="reconstruction" data-description="We learn compact representations of PDE solution fields, including mesh-agnostic neural implicit representations and nonlinear model reduction with learnable weighted autoencoders.">Representation Learning for PDE Systems (2)</a>
+        <a href="projects.html?topic=fluids#publications" data-topic="fluids" data-description="We investigate compressible turbulence, combustion effects and shock–turbulent boundary-layer interactions, rarefaction near sharp leading edges, and industrial CFD modeling of low-pressure plasma etch chambers.">Compressible Turbulence / Flow Physics / Rarefied Gas Dynamics (5)</a>
+        <a href="projects.html?topic=biomedical#publications" data-topic="biomedical" data-description="Broader AI-for-science applications include adapting language models to biomedical text and reducing the computational cost of medical image segmentation models.">AI for Science in General (2)</a>
+      </nav>
+      <p id="research-topic-summary">All 35 publications, in the original list order.</p>
+      <p id="research-topic-description" hidden></p>
+    </div>
+    <!-- research-topics:end -->
     <div class="content publications">
       Underlined names are my students. <sup>&dagger;</sup> means equal contributions.
       <ol>
-        <li>
+        <li id="paper-gptq-medfm" data-research-topic="biomedical" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_gptq_medfm/fig.png" alt="Publication thumbnail"></div>
           <span class="title">Generalized Post-Training Quantization for Medical Image Segmentation Foundation Model</span>
           <div class="info text-success italic">
@@ -143,7 +160,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-workflow-optimization-survey" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_workflow_survey/fig.png" alt="Publication thumbnail"></div>
           <span class="title">From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents</span>
           <div class="info text-success italic">
@@ -156,7 +173,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-foam-agent" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_foam_agent/fig.png" alt="Publication thumbnail"></div>
           <span class="title">Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows</span>
           <div class="info text-success italic">
@@ -173,7 +190,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-flowevo" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_flowevo/fig.png" alt="Publication thumbnail"></div>
           <span class="title">FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills</span>
           <div class="info text-success italic">
@@ -187,7 +204,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-biomamba" data-research-topic="biomedical" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_biomamba/fig.png" alt="Publication thumbnail"></div>
           <span class="title">BioMamba: Domain-Adaptive Biomedical Language Models</span>
           <div class="info text-success italic">
@@ -201,7 +218,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-code2mcp" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_code2mcp/case-study-esm.png" alt="Publication thumbnail"></div>
           <span class="title">Code2MCP: Transforming Code Repositories into MCP Services</span>
           <div class="info text-success italic">
@@ -219,7 +236,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-neutron-transport-neural-operator" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_neutron_operator/fig.png" alt="Publication thumbnail"></div>
           <span class="title">Surrogate Modeling for Neutron Transport: A Neural Operator Approach</span>
           <div class="info text-success italic">Md Hossain Sahadath, Qiyun Cheng, <span style="font-weight:bold">Shaowu Pan</span>, Wei Ji</div>
@@ -230,7 +247,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-mcp-ai-scientist" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_mcp_scientist/fig.png" alt="Publication thumbnail"></div>
           <span class="title">Building MCP-Native Hierarchical AI Scientist Ecosystems: A Perspective on Scaling Multi-Agent Scientific Discovery</span>
           <div class="info text-success italic">
@@ -243,7 +260,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-md-pnop" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_mdpnop/fig.jpg" alt="Publication thumbnail"></div>
           <span class="title">MD-PNOP: Equation-Recast Neural Operators for Minimal-Data Extrapolation and PDE Solver Acceleration</span>
           <div class="info text-success italic">Qiyun Cheng, Md Hossain Sahadath, Huihua Yang, <span style="font-weight:bold">Shaowu Pan</span>, Wei Ji</div>
@@ -254,7 +271,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-cfdllmbench" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_cfdllmbench/main.png" alt="Publication thumbnail"></div>
           <span class="title">CFDLLMBench: A Benchmark Suite for Evaluating Large Language Models in Computational Fluid
             Dynamics</span>
@@ -270,7 +287,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-deeponet-neutron-transport" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2026_char/fig.png" alt="Publication thumbnail"></div>
           <span class="title">Characterization of DeepONet Performance for Neutron Transport Modeling</span>
           <div class="info text-success italic">Md Hossain Sahadath, Qiyun Cheng, <span style="font-weight:bold">Shaowu
@@ -282,7 +299,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-foamgpt" data-research-topic="agents" style="scroll-margin-top: 12px;">
           <div class="imgblock">
             <img src="resources/publication_images/2025_foamgpt/main.png" alt="Publication thumbnail">
           </div>
@@ -303,7 +320,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-unifoil" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock">
             <img src="resources/publication_images/2025_unifoil/unifoil.png" alt="Publication thumbnail">
           </div>
@@ -328,7 +345,7 @@
         </li>
 
 
-        <li>
+        <li id="paper-stable-koopman-control" data-research-topic="dynamics" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2025_ieee_tcst/1.png" alt="Publication thumbnail"></div>
           <span class="title">Learning Noise-Robust Stable Koopman Operator for Control With Hankel DMD</span>
           <div class="info text-success italic"> <u>Shahriar Akbar Sakib</u>, <span style="font-weight:bold">Shaowu
@@ -342,7 +359,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-weighted-hybrid-autoencoder" data-research-topic="reconstruction" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2025_ae/1.png" alt="Publication thumbnail"></div>
           <span class="title">Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order
             Reduction</span>
@@ -356,7 +373,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-heat-transfer-deeponet" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2025_pns/1.png" alt="Publication thumbnail"></div>
           <span class="title">Surrogate modeling of heat transfer under flow fluctuation conditions using Fourier
             Basis-Deep Operator Network with uncertainty quantification</span>
@@ -370,7 +387,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-invariant-set-lifting" data-research-topic="dynamics" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2024_nody/1.png" alt="Publication thumbnail"></div>
           <span class="title">On the lifting and reconstruction of nonlinear systems with multiple invariant sets</span>
           <div class="info text-success italic"><span style="font-weight:bold">Shaowu Pan</span>, Karthik Duraisamy
@@ -383,7 +400,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-grad-shafranov-pinn" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2024_pop/1.png" alt="Publication thumbnail"></div>
           <span class="title">Grad–Shafranov equilibria via data-free physics informed neural networks</span>
           <div class="info text-success italic">Byoungchan Jang, Alan A. Kaptanoglu, Rahul Gaur, <span
@@ -395,7 +412,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-pykoopman" data-research-topic="dynamics" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2024_joss/1.png" alt="Publication thumbnail"></div>
           <span class="title">PyKoopman: A Python Package for Data-Driven Approximation of the Koopman Operator</span>
           <div class="info text-success italic"><span style="font-weight:bold">Shaowu Pan</span>, Eurika Kaiser, Brian
@@ -408,7 +425,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-neural-implicit-flow" data-research-topic="reconstruction" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2023_jmlr/1.png" alt="Publication thumbnail"></div>
           <span class="title">Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal
             data</span>
@@ -424,7 +441,7 @@
         </li>
 
 
-        <li>
+        <li id="paper-volumetric-piv-reconstruction" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2020_PIV/framework.png" alt="Publication thumbnail"></div>
           <span class="title">Particle reconstruction of volumetric particle image velocimetry with strategy of machine
             learning</span>
@@ -438,7 +455,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-stiff-pinn" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2021_jcpa/jp1c05102_0010.gif" alt="Publication thumbnail"></div>
           <span class="title">Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics</span>
           <div class="info text-success italic">Weiqi Ji, Weilun Qiu, Zhiyu Shi, <span style="font-weight:bold">Shaowu
@@ -450,7 +467,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-sparse-koopman-subspaces" data-research-topic="dynamics" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2020_sparse_jfm/framework.png"
               style="max-width: 30%;" alt="Publication thumbnail"></div>
           <span class="title">Sparsity-promoting algorithms for the discovery of informative Koopman invariant
@@ -468,7 +485,7 @@
         </li>
 
 
-        <li>
+        <li id="paper-time-delay-embedding" data-research-topic="dynamics" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2020_structure/fig_1_geom_inter.png"
               style="max-width: 50%;" alt="Publication thumbnail"></div>
           <span class="title">On the Structure of Time-delay Embedding in Linear Models of Non-linear Dynamical
@@ -483,7 +500,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-stable-probabilistic-embeddings" data-research-topic="dynamics" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2020_nnkoopman/koopman_nn_latex.png" alt="Publication thumbnail"></div>
           <span class="title">Physics-Informed Probabilistic Learning of Linear Embeddings of Non-linear Dynamics With
             Guaranteed Stability</span>
@@ -498,7 +515,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-physics-constrained-flow-surrogates" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2019_pinn/101nuv_compare.png" alt="Publication thumbnail"></div>
           <span class="title">Surrogate Modeling for Fluid Flows Based on Physics-Constrained Deep Learning Without
             Simulation Data</span>
@@ -512,7 +529,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-cnn-aerodynamic-fields" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2019_cnncfd/ezgif.com-webp-to-jpg.jpg" alt="Publication thumbnail">
           </div>
           <span class="title">Prediction of Aerodynamic Flow Fields Using Convolutional Neural Networks</span>
@@ -525,7 +542,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-long-time-dynamics" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2018_longNN/fig26.png" alt="Publication thumbnail"></div>
           <span class="title">Long-time predictive modeling of nonlinear dynamical systems using neural networks</span>
           <div class="info text-success italic"><span style="font-weight:bold">Shaowu Pan</span>, and Karthik Duraisamy
@@ -537,7 +554,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-data-driven-closure" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img
               src="resources/publication_images/2018_data_closure/no_closure_compare_test_snapshots_1d_vbe.png" alt="Publication thumbnail">
           </div>
@@ -553,7 +570,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-bulk-viscosity-turbulence" data-research-topic="fluids" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2017_jfm/fig02a.png" alt="Publication thumbnail"></div>
           <span class="title">The role of bulk viscosity on the decay of compressible, homogeneous, isotropic
             turbulence</span>
@@ -567,7 +584,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-combustion-boundary-layers" data-research-topic="fluids" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2015_aiaa/figure9.jpeg" alt="Publication thumbnail"></div>
           <span class="title">Combustion Heat-Release Effects on Supersonic Compressible Turbulent Boundary
             Layers</span>
@@ -580,7 +597,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-leading-edge-rarefaction" data-research-topic="fluids" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2014_dsmc/dsmc.png" alt="Publication thumbnail"></div>
           <span class="title">Numerical investigation of rarefaction effects in the vicinity of a sharp leading
             edge</span>
@@ -593,7 +610,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-shock-boundary-layer-models" data-research-topic="fluids" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2017_character/les.png" alt="Publication thumbnail"></div>
           <span class="title">Characterizing and improving predictive accuracy in shock-turbulent boundary layer
             interactions using data-driven models</span>
@@ -606,7 +623,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-field-inversion-turbulence" data-research-topic="solutions" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2017_augment/fiml.png" alt="Publication thumbnail"></div>
           <span class="title">Augmentation of turbulence models using field inversion and machine learning</span>
           <div class="info text-success italic">Karthik Duraisamy, Anand Pratap Singh, and <span
@@ -618,7 +635,7 @@
           <div style="clear:both"></div>
         </li>
 
-        <li>
+        <li id="paper-plasma-etch-pumping" data-research-topic="fluids" style="scroll-margin-top: 12px;">
           <div class="imgblock"><img src="resources/publication_images/2014_chamber/chamber.png" alt="Publication thumbnail"></div>
           <span class="title">An extended CFD model to predict the pumping curve in low pressure plasma etch
             chamber</span>
