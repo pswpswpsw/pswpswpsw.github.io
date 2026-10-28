@@ -606,3 +606,95 @@ div.github_outside {
 a.paper-feedback-link {
   margin-left: 6px;
 }
+
+/* Blog listings and articles. Spectral is scoped to blog text and headings. */
+#main > div.blog-title {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  overflow-wrap: anywhere;
+}
+
+#main > div.content.blog-content {
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
+  padding-bottom: 50px;
+  overflow-wrap: anywhere;
+}
+
+#main > div.content .blog-index > li {
+  margin-bottom: 32px;
+}
+
+#main > div.content .blog-post-title {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: normal;
+}
+
+#main > div.content .blog-date {
+  margin: 6px 0 12px;
+  font-size: 0.85em;
+  color: #555;
+}
+
+#main > div.content .blog-excerpt {
+  margin: 0;
+}
+
+#main > div.content .blog-article p,
+#main > div.content .blog-article ul,
+#main > div.content .blog-article ol,
+#main > div.content .blog-article figure {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#main > div.content .blog-article h2,
+#main > div.content .blog-article h3 {
+  margin: 30px 0 12px;
+  font-size: 1.3em;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: normal;
+}
+
+#main > div.content .blog-article h3 {
+  font-size: 1.1em;
+}
+
+#main > div.content .blog-article ol {
+  list-style: decimal outside;
+  margin-left: 1.5em;
+}
+
+#main > div.content .blog-article img,
+#main > div.content .blog-article video {
+  max-width: 100%;
+  height: auto;
+}
+
+#main > div.content .blog-article pre {
+  max-width: 100%;
+  box-sizing: border-box;
+  white-space: pre;
+  overflow-x: auto;
+  overflow-wrap: normal;
+}
+
+#main > div.content .blog-article pre code {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-size: inherit;
+  white-space: inherit;
+}
+
+#main > div.content .blog-article table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+#main > div.content .blog-back {
+  margin-top: 40px;
+}
