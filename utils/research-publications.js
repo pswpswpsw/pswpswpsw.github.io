@@ -26,7 +26,7 @@
       else link.removeAttribute('aria-current');
     });
     var heading = selected.textContent.replace(/\s*\(\d+\)$/, '');
-    document.getElementById('research-topic-summary').textContent = heading + ' — ' + count + (count === 1 ? ' publication' : ' publications');
+    document.getElementById('research-topic-summary').textContent = heading + ': ' + count + (count === 1 ? ' publication' : ' publications');
     var description = document.getElementById('research-topic-description');
     description.textContent = selected.dataset.description || '';
     description.hidden = !description.textContent;
