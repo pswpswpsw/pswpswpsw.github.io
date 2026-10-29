@@ -1,9 +1,8 @@
 # Blog
 
-The blog index is `blog.html`. Its text and headings use Spectral, the serif
-font used by the reference blog, with Georgia as a fallback. The sidebar uses
-Lato, and the colors and responsive layout follow the rest of the website.
-Spectral loads through Google Fonts on blog pages only. The blog is ordinary
+The blog index is `blog.html`. Its text, headings, and the rest of the website
+use Spectral, the serif font, with Georgia as a fallback.
+Spectral loads through Google Fonts. The blog is ordinary
 static HTML and needs no build step or JavaScript.
 
 ## Add a post
